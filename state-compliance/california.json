@@ -1,0 +1,164 @@
+{
+  "stateCode": "CA",
+  "stateName": "California",
+  "serviceNiche": "Title Loans",
+  "lastUpdated": "2025-12-26",
+  "lastVerified": "2025-12-26",
+  "researchSources": [
+    "California Department of Financial Protection and Innovation (DFPI)",
+    "California Financial Code Division 9 (Sections 22000-22780)",
+    "California Finance Code Section 22303 (Interest Rate Caps)",
+    "California Finance Code Section 22304 (Loan Requirements)",
+    "California Finance Code Section 22307.5 (Prepayment Rights)",
+    "DFPI 2024 Annual Report (Published April 2025)",
+    "California Consumer Financial Protection Law (CCFPL)"
+  ],
+
+  "legalStatus": {
+    "isLegal": true,
+    "loanTypeAllowed": "Title Loans (Regulated under California Financing Law)",
+    "restrictions": "Subject to California Financing Law (CFL); APR capped at 30% for loans over $2,500; Minimum loan amount of $2,500 for title loans",
+    "notes": "California allows title loans but with strict consumer protections. The DFPI is one of the nation's most active consumer protection regulators. Loans under $2,500 are subject to tiered rate caps."
+  },
+
+  "regulations": {
+    "maxLoanAmount": "No statutory maximum (based on vehicle fair market value)",
+    "minLoanAmount": "$2,500 (for simplified rate structure); smaller loans subject to tiered rates",
+    "maxAPR": "30% per annum for loans of $2,500 or more",
+    "tieratedRates": {
+      "upTo225": "2.5% per month (30% APR)",
+      "225to900": "2% per month (24% APR)",
+      "900to1650": "1.5% per month (18% APR)",
+      "over1650": "1% per month (12% APR)"
+    },
+    "maxLoanTerm": "No statutory maximum (typically 24-48 months)",
+    "minLoanTerm": "No statutory minimum",
+    "allowsRollover": false,
+    "rolloverLimit": "Rollovers prohibited",
+    "coolingOffPeriod": "None required by state law",
+    "paymentPlanRequired": false,
+    "databaseRequired": false,
+    "interestCalculation": "Simple interest on unpaid principal balance"
+  },
+
+  "fees": {
+    "maxOriginationFee": "$75 for loans over $2,500",
+    "maxLatePaymentFee": "Per contract terms (must be reasonable)",
+    "maxNSFFee": "Per contract terms (must be reasonable)",
+    "prepaymentPenalty": "Prohibited - borrowers may prepay at any time without penalty (Section 22307.5)",
+    "repossessionFees": "Actual fees up to $500 to licensed repossession agencies",
+    "otherFees": "All fees must be clearly disclosed and included in APR calculation"
+  },
+
+  "licensing": {
+    "required": true,
+    "licenseType": "California Financing Law License (CFL)",
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "verificationUrl": "https://dfpi.ca.gov/verify-a-license/",
+    "contactPhone": "(866) 275-2677",
+    "contactEmail": "Ask.DFPI@dfpi.ca.gov",
+    "bondRequired": true,
+    "bondAmount": "Varies based on loan volume",
+    "backgroundCheckRequired": true
+  },
+
+  "consumerProtections": {
+    "rightToRescind": {
+      "available": false,
+      "period": "N/A",
+      "notes": "California does not mandate a rescission period for title loans"
+    },
+    "requiredDisclosures": [
+      "Total cost of loan in dollars and as Annual Percentage Rate (APR)",
+      "Complete payment schedule with all fees itemized",
+      "Consequences of default including repossession rights",
+      "DFPI license number and contact information",
+      "Right to prepay without penalty at any time",
+      "Truth in Lending Act (TILA) disclosures",
+      "All charges and fees before signing"
+    ],
+    "prohibitedPractices": [
+      "Charging more than 30% APR on loans $2,500 or more",
+      "Charging prepayment penalties",
+      "Making loans under $2,500 at higher than tiered rates",
+      "Unlicensed lending operations",
+      "Deceptive or misleading advertising",
+      "Unfair, deceptive, or abusive acts or practices (UDAAP)",
+      "Failing to provide required disclosures",
+      "Misrepresenting loan terms or conditions"
+    ],
+    "collectionRules": {
+      "canRepossess": true,
+      "repossessionNotice": "Written notice required before repossession",
+      "deficiencyBalance": "May pursue deficiency judgment per loan agreement",
+      "gracePeriod": "Per loan agreement terms",
+      "maxRepossessionFee": "$500 to licensed repossession agencies"
+    },
+    "complaintProcess": {
+      "agency": "California DFPI",
+      "url": "https://dfpi.ca.gov/file-a-complaint/",
+      "phone": "(866) 275-2677"
+    }
+  },
+
+  "keyStatutes": [
+    {
+      "name": "California Financing Law (CFL)",
+      "code": "California Financial Code Division 9 (Sections 22000-22780)",
+      "description": "Primary law governing consumer lending including title loans"
+    },
+    {
+      "name": "Interest Rate Limitations",
+      "code": "California Financial Code Section 22303",
+      "description": "Establishes tiered interest rate caps for consumer loans"
+    },
+    {
+      "name": "Loan Requirements",
+      "code": "California Financial Code Section 22304",
+      "description": "Sets forth requirements for loan agreements and disclosures"
+    },
+    {
+      "name": "Prepayment Rights",
+      "code": "California Financial Code Section 22307.5",
+      "description": "Prohibits prepayment penalties on consumer loans"
+    },
+    {
+      "name": "California Consumer Financial Protection Law (CCFPL)",
+      "code": "California Financial Code Sections 90000-90018",
+      "description": "Provides DFPI authority to investigate and sanction unlawful practices"
+    }
+  ],
+
+  "recentChanges": [
+    {
+      "date": "2024-10-11",
+      "change": "DFPI finalized registration regulations for income-based advances, private postsecondary education financing, debt settlement, and student debt relief services under CCFPL",
+      "source": "DFPI 2024 Annual Report",
+      "effectiveDate": "2025-02-15"
+    },
+    {
+      "date": "2024-01-01",
+      "change": "Continued enforcement of enhanced disclosure requirements",
+      "source": "California DFPI",
+      "effectiveDate": "2024-01-01"
+    }
+  ],
+
+  "cityPageContent": {
+    "headline": "Understanding Title Loan Laws in California",
+    "intro": "Residents of {{city}} benefit from California's strong consumer protection laws enforced by the Department of Financial Protection and Innovation (DFPI), one of the nation's most active consumer protection regulators.",
+    "keyPoints": [
+      "California caps title loan interest at 30% APR for loans of $2,500 or more",
+      "Minimum loan amount for standard title loans is $2,500",
+      "All lenders must be licensed by the DFPI - verify at dfpi.ca.gov/verify-a-license",
+      "No prepayment penalties allowed - you can pay off early at any time",
+      "Lenders must provide clear disclosure of all costs before you sign",
+      "You have the right to file complaints with DFPI at (866) 275-2677"
+    ],
+    "disclaimer": "This information is for general educational purposes only and may not reflect the most current legal developments. Laws and regulations change frequently. Always consult with a licensed attorney or contact the California DFPI at (866) 275-2677 or visit dfpi.ca.gov for the most accurate and up-to-date information before making any financial decisions."
+  },
+
+  "strictnessLevel": "strict",
+  "enforcementRating": "high"
+}

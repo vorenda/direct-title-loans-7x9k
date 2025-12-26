@@ -1,0 +1,1198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Direct Title Loans - Get fast cash using your vehicle as collateral. Car, truck, motorcycle, and RV title loans. Bad credit OK. Same-day funding available. Apply now!">
+  <meta name="keywords" content="title loans, car title loans, fast cash, bad credit loans, same day funding, vehicle title loans">
+  <title>Direct Title Loans | Fast Cash Using Your Vehicle | Same-Day Funding</title>
+  <link rel="stylesheet" href="design-system.css">
+  <style>
+    /* === HEADER === */
+    .header {
+      position: sticky;
+      top: 0;
+      z-index: var(--z-index-sticky);
+      background-color: var(--color-bg-primary);
+      border-bottom: 1px solid var(--color-border-light);
+      box-shadow: var(--shadow-sm);
+    }
+
+    .header-container {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: var(--space-4) var(--space-6);
+      max-width: var(--container-xl);
+      margin: 0 auto;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: var(--space-3);
+      font-family: var(--font-family-heading);
+      font-size: var(--font-size-xl);
+      font-weight: var(--font-weight-bold);
+      color: var(--color-primary-500);
+      text-decoration: none;
+    }
+
+    .logo-icon {
+      width: 40px;
+      height: 40px;
+      background: linear-gradient(135deg, var(--color-primary-500), var(--color-secondary-500));
+      border-radius: var(--radius-lg);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-weight: var(--font-weight-bold);
+    }
+
+    .nav {
+      display: flex;
+      align-items: center;
+      gap: var(--space-8);
+    }
+
+    .nav-links {
+      display: flex;
+      gap: var(--space-6);
+      list-style: none;
+    }
+
+    .nav-link {
+      font-weight: var(--font-weight-medium);
+      color: var(--color-text-secondary);
+      transition: color var(--transition-fast);
+    }
+
+    .nav-link:hover {
+      color: var(--color-primary-500);
+      text-decoration: none;
+    }
+
+    .mobile-menu-btn {
+      display: none;
+      background: none;
+      border: none;
+      font-size: var(--font-size-2xl);
+      cursor: pointer;
+    }
+
+    /* === HERO SECTION === */
+    .hero {
+      position: relative;
+      background: linear-gradient(135deg, #0056e0 0%, #00389a 100%);
+      color: var(--color-text-inverse);
+      padding: var(--space-24) 0;
+      overflow: hidden;
+    }
+
+    .hero::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-image: url('data:image/svg+xml,<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><rect width="100" height="100" fill="none"/><circle cx="50" cy="50" r="1" fill="rgba(255,255,255,0.1)"/></svg>');
+      background-size: 50px 50px;
+      opacity: 0.3;
+    }
+
+    .hero-container {
+      position: relative;
+      z-index: 1;
+      max-width: var(--container-lg);
+      margin: 0 auto;
+      padding: 0 var(--space-6);
+      text-align: center;
+    }
+
+    .hero h1 {
+      font-size: var(--font-size-6xl);
+      font-weight: var(--font-weight-extrabold);
+      line-height: 1.1;
+      margin-bottom: var(--space-6);
+      color: var(--color-text-inverse);
+    }
+
+    .hero-subheadline {
+      font-size: var(--font-size-xl);
+      font-weight: var(--font-weight-normal);
+      line-height: var(--line-height-relaxed);
+      margin-bottom: var(--space-10);
+      opacity: 0.95;
+    }
+
+    .hero-ctas {
+      display: flex;
+      gap: var(--space-4);
+      justify-content: center;
+      margin-bottom: var(--space-12);
+      flex-wrap: wrap;
+    }
+
+    .trust-badges {
+      display: flex;
+      gap: var(--space-8);
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      padding-top: var(--space-8);
+      border-top: 1px solid rgba(255, 255, 255, 0.2);
+    }
+
+    .trust-badge {
+      display: flex;
+      align-items: center;
+      gap: var(--space-2);
+      font-size: var(--font-size-sm);
+      opacity: 0.9;
+    }
+
+    .trust-badge svg {
+      width: 20px;
+      height: 20px;
+    }
+
+    /* === SERVICES SECTION === */
+    .services {
+      padding: var(--space-24) 0;
+      background-color: var(--color-bg-secondary);
+    }
+
+    .section-header {
+      text-align: center;
+      max-width: 800px;
+      margin: 0 auto var(--space-16);
+    }
+
+    .section-title {
+      font-size: var(--font-size-4xl);
+      margin-bottom: var(--space-4);
+    }
+
+    .section-subtitle {
+      font-size: var(--font-size-lg);
+      color: var(--color-text-secondary);
+    }
+
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: var(--space-6);
+      max-width: var(--container-xl);
+      margin: 0 auto;
+      padding: 0 var(--space-6);
+    }
+
+    .service-card {
+      background: var(--color-bg-primary);
+      border-radius: var(--radius-xl);
+      padding: var(--space-8);
+      box-shadow: var(--shadow-base);
+      transition: all var(--transition-base);
+      border: 2px solid transparent;
+    }
+
+    .service-card:hover {
+      transform: translateY(-4px);
+      box-shadow: var(--shadow-lg);
+      border-color: var(--color-primary-500);
+    }
+
+    .service-icon {
+      width: 60px;
+      height: 60px;
+      background: linear-gradient(135deg, var(--color-primary-500), var(--color-secondary-500));
+      border-radius: var(--radius-xl);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: var(--space-4);
+      font-size: var(--font-size-2xl);
+    }
+
+    .service-card h3 {
+      font-size: var(--font-size-xl);
+      margin-bottom: var(--space-3);
+      color: var(--color-text-primary);
+    }
+
+    .service-card p {
+      color: var(--color-text-secondary);
+      margin-bottom: var(--space-4);
+      line-height: var(--line-height-relaxed);
+    }
+
+    .service-link {
+      display: inline-flex;
+      align-items: center;
+      gap: var(--space-2);
+      color: var(--color-primary-500);
+      font-weight: var(--font-weight-semibold);
+    }
+
+    /* === HOW IT WORKS SECTION === */
+    .how-it-works {
+      padding: var(--space-24) 0;
+      background: var(--color-bg-primary);
+    }
+
+    .steps-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: var(--space-8);
+      max-width: var(--container-xl);
+      margin: 0 auto;
+      padding: 0 var(--space-6);
+    }
+
+    .step-card {
+      text-align: center;
+      position: relative;
+    }
+
+    .step-number {
+      width: 80px;
+      height: 80px;
+      background: linear-gradient(135deg, var(--color-primary-500), var(--color-secondary-500));
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto var(--space-4);
+      font-size: var(--font-size-3xl);
+      font-weight: var(--font-weight-bold);
+      color: white;
+      box-shadow: var(--shadow-lg);
+    }
+
+    .step-card h3 {
+      font-size: var(--font-size-xl);
+      margin-bottom: var(--space-3);
+    }
+
+    .step-card p {
+      color: var(--color-text-secondary);
+      line-height: var(--line-height-relaxed);
+    }
+
+    /* === WHY CHOOSE US SECTION === */
+    .why-choose {
+      padding: var(--space-24) 0;
+      background: var(--color-bg-secondary);
+    }
+
+    .benefits-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: var(--space-6);
+      max-width: var(--container-xl);
+      margin: 0 auto;
+      padding: 0 var(--space-6);
+    }
+
+    .benefit-card {
+      background: var(--color-bg-primary);
+      border-radius: var(--radius-xl);
+      padding: var(--space-6);
+      display: flex;
+      gap: var(--space-4);
+      box-shadow: var(--shadow-sm);
+      transition: box-shadow var(--transition-base);
+    }
+
+    .benefit-card:hover {
+      box-shadow: var(--shadow-md);
+    }
+
+    .benefit-icon {
+      flex-shrink: 0;
+      width: 48px;
+      height: 48px;
+      background: var(--color-primary-100);
+      border-radius: var(--radius-lg);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--color-primary-500);
+      font-size: var(--font-size-xl);
+    }
+
+    .benefit-content h3 {
+      font-size: var(--font-size-lg);
+      margin-bottom: var(--space-2);
+    }
+
+    .benefit-content p {
+      color: var(--color-text-secondary);
+      margin: 0;
+      line-height: var(--line-height-relaxed);
+      font-size: var(--font-size-sm);
+    }
+
+    /* === LOCATIONS SECTION === */
+    .locations {
+      padding: var(--space-24) 0;
+      background: var(--color-bg-primary);
+    }
+
+    .locations-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: var(--space-4);
+      max-width: var(--container-lg);
+      margin: 0 auto;
+      padding: 0 var(--space-6);
+    }
+
+    .location-card {
+      background: var(--color-bg-secondary);
+      border-radius: var(--radius-lg);
+      padding: var(--space-6);
+      text-align: center;
+      transition: all var(--transition-base);
+      border: 2px solid transparent;
+    }
+
+    .location-card:hover {
+      background: var(--color-bg-primary);
+      border-color: var(--color-primary-500);
+      transform: translateY(-2px);
+      box-shadow: var(--shadow-md);
+    }
+
+    .location-card h3 {
+      font-size: var(--font-size-xl);
+      margin-bottom: var(--space-2);
+      color: var(--color-primary-500);
+    }
+
+    .location-count {
+      color: var(--color-text-secondary);
+      font-size: var(--font-size-sm);
+    }
+
+    /* === TESTIMONIALS SECTION === */
+    .testimonials {
+      padding: var(--space-24) 0;
+      background: var(--color-bg-secondary);
+    }
+
+    .testimonials-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: var(--space-6);
+      max-width: var(--container-xl);
+      margin: 0 auto;
+      padding: 0 var(--space-6);
+    }
+
+    .testimonial-card {
+      background: var(--color-bg-primary);
+      border-radius: var(--radius-xl);
+      padding: var(--space-8);
+      box-shadow: var(--shadow-base);
+      position: relative;
+    }
+
+    .testimonial-stars {
+      color: var(--color-accent-500);
+      font-size: var(--font-size-lg);
+      margin-bottom: var(--space-3);
+    }
+
+    .testimonial-text {
+      color: var(--color-text-secondary);
+      line-height: var(--line-height-relaxed);
+      margin-bottom: var(--space-4);
+      font-style: italic;
+    }
+
+    .testimonial-author {
+      display: flex;
+      align-items: center;
+      gap: var(--space-3);
+    }
+
+    .testimonial-avatar {
+      width: 48px;
+      height: 48px;
+      background: linear-gradient(135deg, var(--color-primary-500), var(--color-secondary-500));
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-weight: var(--font-weight-bold);
+    }
+
+    .testimonial-author-info h4 {
+      font-size: var(--font-size-base);
+      margin-bottom: var(--space-1);
+    }
+
+    .testimonial-author-info p {
+      font-size: var(--font-size-sm);
+      color: var(--color-text-tertiary);
+      margin: 0;
+    }
+
+    /* === FAQ SECTION === */
+    .faq {
+      padding: var(--space-24) 0;
+      background: var(--color-bg-primary);
+    }
+
+    .faq-container {
+      max-width: var(--container-md);
+      margin: 0 auto;
+      padding: 0 var(--space-6);
+    }
+
+    .faq-item {
+      background: var(--color-bg-secondary);
+      border-radius: var(--radius-lg);
+      margin-bottom: var(--space-4);
+      overflow: hidden;
+      border: 1px solid var(--color-border-light);
+    }
+
+    .faq-question {
+      width: 100%;
+      text-align: left;
+      background: none;
+      border: none;
+      padding: var(--space-5);
+      font-family: var(--font-family-heading);
+      font-size: var(--font-size-lg);
+      font-weight: var(--font-weight-semibold);
+      color: var(--color-text-primary);
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      transition: background-color var(--transition-fast);
+    }
+
+    .faq-question:hover {
+      background-color: var(--color-neutral-100);
+    }
+
+    .faq-icon {
+      font-size: var(--font-size-xl);
+      transition: transform var(--transition-base);
+    }
+
+    .faq-item.active .faq-icon {
+      transform: rotate(45deg);
+    }
+
+    .faq-answer {
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height var(--transition-base);
+    }
+
+    .faq-item.active .faq-answer {
+      max-height: 500px;
+    }
+
+    .faq-answer-content {
+      padding: 0 var(--space-5) var(--space-5);
+      color: var(--color-text-secondary);
+      line-height: var(--line-height-relaxed);
+    }
+
+    /* === CTA SECTION === */
+    .cta-section {
+      padding: var(--space-24) 0;
+      background: linear-gradient(135deg, var(--color-primary-500), var(--color-secondary-500));
+      color: var(--color-text-inverse);
+      text-align: center;
+    }
+
+    .cta-container {
+      max-width: var(--container-md);
+      margin: 0 auto;
+      padding: 0 var(--space-6);
+    }
+
+    .cta-section h2 {
+      font-size: var(--font-size-4xl);
+      color: var(--color-text-inverse);
+      margin-bottom: var(--space-4);
+    }
+
+    .cta-section p {
+      font-size: var(--font-size-lg);
+      margin-bottom: var(--space-8);
+      opacity: 0.95;
+    }
+
+    .cta-buttons {
+      display: flex;
+      gap: var(--space-4);
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .btn-white {
+      background: white;
+      color: var(--color-primary-500);
+      border-color: white;
+    }
+
+    .btn-white:hover {
+      background: var(--color-neutral-100);
+      border-color: var(--color-neutral-100);
+      color: var(--color-primary-600);
+    }
+
+    /* === FOOTER === */
+    .footer {
+      background: var(--color-bg-dark);
+      color: var(--color-text-inverse);
+      padding: var(--space-16) 0 var(--space-8);
+    }
+
+    .footer-container {
+      max-width: var(--container-xl);
+      margin: 0 auto;
+      padding: 0 var(--space-6);
+    }
+
+    .footer-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: var(--space-12);
+      margin-bottom: var(--space-12);
+    }
+
+    .footer-section h3 {
+      font-size: var(--font-size-lg);
+      margin-bottom: var(--space-4);
+      color: var(--color-text-inverse);
+    }
+
+    .footer-links {
+      list-style: none;
+    }
+
+    .footer-links li {
+      margin-bottom: var(--space-2);
+    }
+
+    .footer-links a {
+      color: var(--color-neutral-400);
+      font-size: var(--font-size-sm);
+    }
+
+    .footer-links a:hover {
+      color: var(--color-text-inverse);
+    }
+
+    .footer-disclaimer {
+      border-top: 1px solid var(--color-neutral-700);
+      padding-top: var(--space-8);
+      font-size: var(--font-size-xs);
+      color: var(--color-neutral-500);
+      line-height: var(--line-height-relaxed);
+    }
+
+    .footer-disclaimer p {
+      margin-bottom: var(--space-3);
+    }
+
+    .footer-disclaimer strong {
+      color: var(--color-text-inverse);
+    }
+
+    .footer-bottom {
+      text-align: center;
+      padding-top: var(--space-6);
+      border-top: 1px solid var(--color-neutral-700);
+      margin-top: var(--space-6);
+      color: var(--color-neutral-500);
+      font-size: var(--font-size-sm);
+    }
+
+    /* === RESPONSIVE === */
+    @media (max-width: 768px) {
+      .nav-links {
+        display: none;
+      }
+
+      .mobile-menu-btn {
+        display: block;
+      }
+
+      .hero h1 {
+        font-size: var(--font-size-4xl);
+      }
+
+      .hero-ctas {
+        flex-direction: column;
+      }
+
+      .services-grid,
+      .steps-grid,
+      .benefits-grid,
+      .testimonials-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- HEADER -->
+  <header class="header">
+    <div class="header-container">
+      <a href="/" class="logo">
+        <span class="logo-icon">DT</span>
+        <span>Direct Title Loans</span>
+      </a>
+      <nav class="nav">
+        <ul class="nav-links">
+          <li><a href="/services" class="nav-link">Services</a></li>
+          <li><a href="/locations" class="nav-link">Locations</a></li>
+          <li><a href="/how-it-works" class="nav-link">How It Works</a></li>
+          <li><a href="/faq" class="nav-link">FAQ</a></li>
+          <li><a href="/contact" class="nav-link">Contact</a></li>
+        </ul>
+        <a href="/apply" class="btn btn-primary">Apply Now</a>
+        <button class="mobile-menu-btn" aria-label="Menu">☰</button>
+      </nav>
+    </div>
+  </header>
+
+  <!-- HERO SECTION -->
+  <section class="hero">
+    <div class="hero-container">
+      <h1>Get Fast Cash Using Your Vehicle</h1>
+      <p class="hero-subheadline">
+        Use your car, truck, motorcycle, or RV as collateral for a title loan. Keep driving while you repay. Bad credit OK. Same-day funding available.
+      </p>
+      <div class="hero-ctas">
+        <a href="/apply" class="btn btn-accent btn-lg">Apply Now - Get Started</a>
+        <a href="tel:+18005551234" class="btn btn-white btn-lg">Call (800) 555-1234</a>
+      </div>
+      <div class="trust-badges">
+        <div class="trust-badge">
+          <svg fill="currentColor" viewBox="0 0 20 20"><path d="M9 12l-2-2-1 1 3 3 5-5-1-1-4 4z"/><path d="M10 0C4.5 0 0 4.5 0 10s4.5 10 10 10 10-4.5 10-10S15.5 0 10 0zm0 18c-4.4 0-8-3.6-8-8s3.6-8 8-8 8 3.6 8 8-3.6 8-8 8z"/></svg>
+          State Licensed Lender
+        </div>
+        <div class="trust-badge">
+          <svg fill="currentColor" viewBox="0 0 20 20"><path d="M10 0L3 4v6c0 5.5 3.8 10.7 7 12 3.2-1.3 7-6.5 7-12V4l-7-4zm5 10c0 4.3-2.9 8.4-5 9.6-2.1-1.2-5-5.3-5-9.6V5.5l5-2.9 5 2.9V10z"/></svg>
+          256-bit SSL Secure
+        </div>
+        <div class="trust-badge">
+          <svg fill="currentColor" viewBox="0 0 20 20"><path d="M10 0C4.5 0 0 4.5 0 10s4.5 10 10 10 10-4.5 10-10S15.5 0 10 0zm4 14l-4-3-4 3 1-5-3-3h5l2-4 2 4h5l-3 3 1 5z"/></svg>
+          BBB Accredited
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SERVICES SECTION -->
+  <section class="services">
+    <div class="section-header">
+      <h2 class="section-title">Our Title Loan Services</h2>
+      <p class="section-subtitle">We offer flexible title loan options for all types of vehicles. Choose the service that fits your needs.</p>
+    </div>
+    <div class="services-grid">
+      <!-- Car Title Loans -->
+      <div class="service-card">
+        <div class="service-icon">🚗</div>
+        <h3>Car Title Loans</h3>
+        <p>Use your car title as collateral to access fast cash. Keep driving while you repay.</p>
+        <a href="/services/car-title-loans" class="service-link">
+          Learn More →
+        </a>
+      </div>
+
+      <!-- Truck Title Loans -->
+      <div class="service-card">
+        <div class="service-icon">🚚</div>
+        <h3>Truck Title Loans</h3>
+        <p>Leverage your truck's equity for emergency funding. Personal and commercial trucks accepted.</p>
+        <a href="/services/truck-title-loans" class="service-link">
+          Learn More →
+        </a>
+      </div>
+
+      <!-- Motorcycle Title Loans -->
+      <div class="service-card">
+        <div class="service-icon">🏍️</div>
+        <h3>Motorcycle Title Loans</h3>
+        <p>Turn your motorcycle's value into cash when you need it most. Quick approval process.</p>
+        <a href="/services/motorcycle-title-loans" class="service-link">
+          Learn More →
+        </a>
+      </div>
+
+      <!-- RV Title Loans -->
+      <div class="service-card">
+        <div class="service-icon">🚐</div>
+        <h3>RV Title Loans</h3>
+        <p>Unlock the equity in your recreational vehicle. Class A, B, C, and motorhomes accepted.</p>
+        <a href="/services/rv-title-loans" class="service-link">
+          Learn More →
+        </a>
+      </div>
+
+      <!-- Emergency Title Loans -->
+      <div class="service-card">
+        <div class="service-icon">⚡</div>
+        <h3>Emergency Title Loans</h3>
+        <p>Same-day funding for urgent financial needs. Get cash fast when emergencies strike.</p>
+        <a href="/services/emergency-title-loans" class="service-link">
+          Learn More →
+        </a>
+      </div>
+
+      <!-- Title Loan Refinancing -->
+      <div class="service-card">
+        <div class="service-icon">🔄</div>
+        <h3>Title Loan Refinancing</h3>
+        <p>Refinance your existing title loan for better rates and lower monthly payments.</p>
+        <a href="/services/title-loan-refinancing" class="service-link">
+          Learn More →
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- HOW IT WORKS SECTION -->
+  <section class="how-it-works">
+    <div class="section-header">
+      <h2 class="section-title">How It Works</h2>
+      <p class="section-subtitle">Get your title loan in 4 simple steps. Fast, easy, and transparent.</p>
+    </div>
+    <div class="steps-grid">
+      <div class="step-card">
+        <div class="step-number">1</div>
+        <h3>Apply Online or By Phone</h3>
+        <p>Complete our simple application form online or call to speak with a loan specialist. Provide basic information about yourself and your vehicle.</p>
+      </div>
+      <div class="step-card">
+        <div class="step-number">2</div>
+        <h3>Vehicle Evaluation</h3>
+        <p>We evaluate your vehicle's value based on make, model, year, mileage, and condition. Many applications can be processed with photos - no in-person inspection required.</p>
+      </div>
+      <div class="step-card">
+        <div class="step-number">3</div>
+        <h3>Get Your Quote</h3>
+        <p>Receive a loan offer with transparent terms including the loan amount, interest rate, and repayment schedule. No obligation to proceed.</p>
+      </div>
+      <div class="step-card">
+        <div class="step-number">4</div>
+        <h3>Sign and Get Funded</h3>
+        <p>Review and sign your loan agreement. Once approved, funds can be deposited in as little as one business day.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- WHY CHOOSE US SECTION -->
+  <section class="why-choose">
+    <div class="section-header">
+      <h2 class="section-title">Why Choose Direct Title Loans?</h2>
+      <p class="section-subtitle">We're committed to providing fast, fair, and transparent title loan services.</p>
+    </div>
+    <div class="benefits-grid">
+      <div class="benefit-card">
+        <div class="benefit-icon">⚡</div>
+        <div class="benefit-content">
+          <h3>Fast Approval</h3>
+          <p>Get approved in as little as 30 minutes. Same-day funding available for qualified applicants.</p>
+        </div>
+      </div>
+      <div class="benefit-card">
+        <div class="benefit-icon">✓</div>
+        <div class="benefit-content">
+          <h3>Bad Credit OK</h3>
+          <p>Your credit score is not the primary factor. We focus on your vehicle's value and ability to repay.</p>
+        </div>
+      </div>
+      <div class="benefit-card">
+        <div class="benefit-icon">🚗</div>
+        <div class="benefit-content">
+          <h3>Keep Your Vehicle</h3>
+          <p>Continue driving your car, truck, motorcycle, or RV throughout the entire loan term.</p>
+        </div>
+      </div>
+      <div class="benefit-card">
+        <div class="benefit-icon">💰</div>
+        <div class="benefit-content">
+          <h3>No Prepayment Penalties</h3>
+          <p>Pay off your loan early and save on interest. No fees for early repayment.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- LOCATIONS SECTION -->
+  <section class="locations">
+    <div class="section-header">
+      <h2 class="section-title">We Serve California and Florida</h2>
+      <p class="section-subtitle">Find title loan services in your area. Click your state to see all available cities.</p>
+    </div>
+    <div class="locations-grid">
+      <a href="/locations/ca" class="location-card">
+        <h3>California</h3>
+        <p class="location-count">2 Cities</p>
+      </a>
+      <a href="/locations/fl" class="location-card">
+        <h3>Florida</h3>
+        <p class="location-count">2 Cities</p>
+      </a>
+    </div>
+  </section>
+
+  <!-- TESTIMONIALS SECTION -->
+  <section class="testimonials">
+    <div class="section-header">
+      <h2 class="section-title">What Our Customers Say</h2>
+      <p class="section-subtitle">Real reviews from real customers who got the cash they needed.</p>
+    </div>
+    <div class="testimonials-grid">
+      <div class="testimonial-card">
+        <div class="testimonial-stars">★★★★★</div>
+        <p class="testimonial-text">
+          "I needed emergency cash for car repairs and Direct Title Loans came through. Got approved same day and the process was so easy. Highly recommend!"
+        </p>
+        <div class="testimonial-author">
+          <div class="testimonial-avatar">MG</div>
+          <div class="testimonial-author-info">
+            <h4>Maria G.</h4>
+            <p>Los Angeles, CA</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="testimonial-card">
+        <div class="testimonial-stars">★★★★★</div>
+        <p class="testimonial-text">
+          "Bad credit made it impossible to get a bank loan. Direct Title Loans approved me based on my truck's value. Fast, professional, and I kept driving my truck."
+        </p>
+        <div class="testimonial-author">
+          <div class="testimonial-avatar">JT</div>
+          <div class="testimonial-author-info">
+            <h4>James T.</h4>
+            <p>Miami, FL</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="testimonial-card">
+        <div class="testimonial-stars">★★★★★</div>
+        <p class="testimonial-text">
+          "The application was quick and I got my money the next day. Staff was knowledgeable about state requirements. Would definitely use again if needed."
+        </p>
+        <div class="testimonial-author">
+          <div class="testimonial-avatar">SL</div>
+          <div class="testimonial-author-info">
+            <h4>Sandra L.</h4>
+            <p>San Diego, CA</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ SECTION -->
+  <section class="faq">
+    <div class="section-header">
+      <h2 class="section-title">Frequently Asked Questions</h2>
+      <p class="section-subtitle">Get answers to common questions about title loans.</p>
+    </div>
+    <div class="faq-container">
+      <div class="faq-item">
+        <button class="faq-question" onclick="this.parentElement.classList.toggle('active')">
+          <span>How much can I borrow with a title loan?</span>
+          <span class="faq-icon">+</span>
+        </button>
+        <div class="faq-answer">
+          <div class="faq-answer-content">
+            The amount you can borrow depends on your vehicle's value and your state's regulations. Typically, you can borrow up to 50% of your car's fair market value. Loan amounts commonly range from $1,000 to $50,000 or more for high-value vehicles.
+          </div>
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-question" onclick="this.parentElement.classList.toggle('active')">
+          <span>How fast can I get my money?</span>
+          <span class="faq-icon">+</span>
+        </button>
+        <div class="faq-answer">
+          <div class="faq-answer-content">
+            Many title loans are approved and funded the same day you apply. Once you complete the application and provide the required documents, you could have cash in your hands within hours. Some applications fund within 24 business hours.
+          </div>
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-question" onclick="this.parentElement.classList.toggle('active')">
+          <span>Will I lose my car if I get a title loan?</span>
+          <span class="faq-icon">+</span>
+        </button>
+        <div class="faq-answer">
+          <div class="faq-answer-content">
+            No, you keep driving your car throughout the entire loan term. The lender only holds the title as collateral. As long as you make your payments according to the agreement, you maintain full use of your vehicle.
+          </div>
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-question" onclick="this.parentElement.classList.toggle('active')">
+          <span>Do I need good credit to get a title loan?</span>
+          <span class="faq-icon">+</span>
+        </button>
+        <div class="faq-answer">
+          <div class="faq-answer-content">
+            No. Title loans are designed for people of all credit backgrounds. Your vehicle's value and your ability to repay are the primary factors - not your credit score. Many people with bad credit, no credit, or past bankruptcies qualify.
+          </div>
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-question" onclick="this.parentElement.classList.toggle('active')">
+          <span>Can I pay off my title loan early?</span>
+          <span class="faq-icon">+</span>
+        </button>
+        <div class="faq-answer">
+          <div class="faq-answer-content">
+            Yes! There are no prepayment penalties. You can pay off your loan at any time before the due date. Paying early can reduce the total interest you pay over the life of the loan.
+          </div>
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-question" onclick="this.parentElement.classList.toggle('active')">
+          <span>What documents do I need to apply?</span>
+          <span class="faq-icon">+</span>
+        </button>
+        <div class="faq-answer">
+          <div class="faq-answer-content">
+            You'll need your vehicle title, a valid ID, proof of income, and proof of residence. Some states also require proof of vehicle insurance. Most documents can be submitted online for convenience.
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA SECTION -->
+  <section class="cta-section">
+    <div class="cta-container">
+      <h2>Ready to Get Started?</h2>
+      <p>Apply now and see how much cash you can access with your vehicle's equity. Fast approval, same-day funding available.</p>
+      <div class="cta-buttons">
+        <a href="/apply" class="btn btn-white btn-lg">Apply Now</a>
+        <a href="tel:+18005551234" class="btn btn-outline btn-lg" style="border-color: white; color: white;">Call (800) 555-1234</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="footer-container">
+      <div class="footer-grid">
+        <div class="footer-section">
+          <h3>About Direct Title Loans</h3>
+          <p style="color: var(--color-neutral-400); font-size: var(--font-size-sm); line-height: var(--line-height-relaxed);">
+            We provide fast, fair, and transparent title loans across California and Florida. Our mission is to help people access the funds they need using their vehicle's equity.
+          </p>
+        </div>
+
+        <div class="footer-section">
+          <h3>Services</h3>
+          <ul class="footer-links">
+            <li><a href="/services/car-title-loans">Car Title Loans</a></li>
+            <li><a href="/services/truck-title-loans">Truck Title Loans</a></li>
+            <li><a href="/services/motorcycle-title-loans">Motorcycle Title Loans</a></li>
+            <li><a href="/services/rv-title-loans">RV Title Loans</a></li>
+            <li><a href="/services/emergency-title-loans">Emergency Title Loans</a></li>
+            <li><a href="/services/title-loan-refinancing">Title Loan Refinancing</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-section">
+          <h3>Resources</h3>
+          <ul class="footer-links">
+            <li><a href="/how-it-works">How It Works</a></li>
+            <li><a href="/faq">FAQ</a></li>
+            <li><a href="/locations">Locations</a></li>
+            <li><a href="/contact">Contact Us</a></li>
+            <li><a href="/privacy-policy">Privacy Policy</a></li>
+            <li><a href="/terms">Terms & Conditions</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-section">
+          <h3>Contact</h3>
+          <ul class="footer-links">
+            <li><a href="tel:+18005551234">Phone: (800) 555-1234</a></li>
+            <li><a href="mailto:info@directtitleloans.com">Email: info@directtitleloans.com</a></li>
+            <li>Hours: Mon-Fri 9AM-6PM</li>
+            <li>Saturday 10AM-4PM</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="footer-disclaimer">
+        <p><strong>IMPORTANT DISCLAIMERS (YMYL - Financial Service):</strong></p>
+        <p>
+          <strong>Title loans are high-cost short-term loans.</strong> Please borrow responsibly and consider all alternatives before applying.
+          Failure to repay your title loan according to the terms of your agreement may result in repossession of your vehicle.
+        </p>
+        <p>
+          Loan approval, amounts, terms, and rates vary by state, vehicle value, and applicant qualifications. This is not an offer or
+          solicitation for a loan. Actual terms and availability vary by state and applicant.
+        </p>
+        <p>
+          Direct Title Loans is a licensed lender. See state disclosures for licensing information. Equal Opportunity Lender. Subject to
+          credit approval and state regulations.
+        </p>
+        <p>
+          <strong>California Residents:</strong> Loans are made pursuant to a Department of Financial Protection and Innovation California
+          Finance Lenders License.
+        </p>
+        <p>
+          <strong>Florida Residents:</strong> Loans are made pursuant to a Consumer Finance License from the Florida Office of Financial Regulation.
+        </p>
+        <p>
+          There are a wide variety of financial products available in the marketplace, so your choice should match your financial needs.
+          Small-dollar loans used over a long period of time can be expensive. This material is for informational purposes only and is not
+          intended to be a substitute for legal or financial advice.
+        </p>
+      </div>
+
+      <div class="footer-bottom">
+        <p>&copy; 2025 Direct Title Loans. All rights reserved. | <a href="/privacy-policy" style="color: var(--color-neutral-500);">Privacy Policy</a> | <a href="/terms" style="color: var(--color-neutral-500);">Terms of Service</a></p>
+      </div>
+    </div>
+  </footer>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Direct Title Loans",
+    "description": "Fast title loans using your vehicle as collateral. Car, truck, motorcycle, and RV title loans. Bad credit OK. Same-day funding available.",
+    "url": "https://directtitleloans.com",
+    "telephone": "+1-800-555-1234",
+    "areaServed": [
+      {
+        "@type": "State",
+        "name": "California"
+      },
+      {
+        "@type": "State",
+        "name": "Florida"
+      }
+    ],
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Title Loan Services",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "LoanOrCredit",
+            "name": "Car Title Loan"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "LoanOrCredit",
+            "name": "Truck Title Loan"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "LoanOrCredit",
+            "name": "Motorcycle Title Loan"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "LoanOrCredit",
+            "name": "RV Title Loan"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "LoanOrCredit",
+            "name": "Emergency Title Loan"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "LoanOrCredit",
+            "name": "Title Loan Refinancing"
+          }
+        }
+      ]
+    }
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How much can I borrow with a title loan?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The amount you can borrow depends on your vehicle's value and your state's regulations. Typically, you can borrow up to 50% of your car's fair market value. Loan amounts commonly range from $1,000 to $50,000 or more for high-value vehicles."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How fast can I get my money?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Many title loans are approved and funded the same day you apply. Once you complete the application and provide the required documents, you could have cash in your hands within hours. Some applications fund within 24 business hours."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Will I lose my car if I get a title loan?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No, you keep driving your car throughout the entire loan term. The lender only holds the title as collateral. As long as you make your payments according to the agreement, you maintain full use of your vehicle."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do I need good credit to get a title loan?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. Title loans are designed for people of all credit backgrounds. Your vehicle's value and your ability to repay are the primary factors - not your credit score. Many people with bad credit, no credit, or past bankruptcies qualify."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I pay off my title loan early?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes! There are no prepayment penalties. You can pay off your loan at any time before the due date. Paying early can reduce the total interest you pay over the life of the loan."
+        }
+      }
+    ]
+  }
+  </script>
+</body>
+</html>

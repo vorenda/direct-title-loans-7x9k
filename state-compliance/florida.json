@@ -1,0 +1,213 @@
+{
+  "stateCode": "FL",
+  "stateName": "Florida",
+  "serviceNiche": "Title Loans",
+  "lastUpdated": "2025-12-26",
+  "lastVerified": "2025-12-26",
+  "researchSources": [
+    "Florida Statutes Chapter 537 - Florida Title Loan Act",
+    "Florida Statutes Chapter 516 - Consumer Finance",
+    "Florida Office of Financial Regulation (OFR)",
+    "Florida Senate 2024 Florida Statutes",
+    "Florida Legislature Online Sunshine - Section 537.011",
+    "Florida Legislature Online Sunshine - Section 537.012",
+    "Florida Legislature Online Sunshine - Section 537.013"
+  ],
+
+  "legalStatus": {
+    "isLegal": true,
+    "loanTypeAllowed": "Title Loans (Regulated under Florida Title Loan Act - Chapter 537)",
+    "restrictions": "Must be licensed by Florida Office of Financial Regulation; Subject to strict tiered interest rate caps and comprehensive consumer protection requirements",
+    "notes": "Florida has a dedicated Title Loan Act (Chapter 537) that provides comprehensive consumer protections. The law supersedes other state provisions regarding title loans to the extent of any conflict."
+  },
+
+  "regulations": {
+    "maxLoanAmount": "$25,000 under Chapter 516; No specific cap under Chapter 537 (based on vehicle value)",
+    "minLoanAmount": "No statutory minimum",
+    "maxAPR": "Tiered rates: 30% on first $2,000; 24% on $2,000-$3,000; 18% on amounts over $3,000",
+    "tieredRates": {
+      "first2000": "30% per annum",
+      "2000to3000": "24% per annum",
+      "over3000": "18% per annum"
+    },
+    "maxLoanTerm": "30 days initial term",
+    "minLoanTerm": "No statutory minimum",
+    "allowsRollover": true,
+    "rolloverLimit": "No limit on number of extensions, but interest rate cannot exceed original rate",
+    "rolloverRestrictions": "Each extension must be 30 days; Cannot capitalize unpaid interest into principal",
+    "coolingOffPeriod": "None required",
+    "paymentPlanRequired": false,
+    "databaseRequired": false,
+    "interestCalculation": "Simple interest only - add-on interest prohibited"
+  },
+
+  "fees": {
+    "maxOriginationFee": "$25 for credit investigation fee",
+    "maxLatePaymentFee": "$15 per month or $7.50 semi-monthly after 10 days delinquent",
+    "maxNSFFee": "Greater of $20 or actual bank charge",
+    "prepaymentPenalty": "None allowed - borrower may prepay at any time",
+    "repossessionFees": "Reasonable expenses only; must use licensed repossession agent",
+    "otherFees": "All fees must be disclosed in title loan agreement"
+  },
+
+  "licensing": {
+    "required": true,
+    "licenseType": "Title Loan Lender License (Chapter 537)",
+    "regulatoryBody": "Florida Office of Financial Regulation (OFR)",
+    "regulatoryUrl": "https://flofr.gov",
+    "verificationUrl": "https://flofr.gov/divisions-offices/division-of-consumer-finance/title-loan-companies",
+    "contactPhone": "(850) 487-9687",
+    "applicationFee": "$1,200 (non-refundable)",
+    "investigationFee": "$200 (non-refundable)",
+    "renewalFee": "$1,200 (biennial)",
+    "bondRequired": true,
+    "bondAmount": "$100,000 per license (max $1,000,000 aggregate)",
+    "backgroundCheckRequired": true,
+    "fingerprintRequired": true,
+    "registeredAgentRequired": true,
+    "separateLicensePerLocation": true
+  },
+
+  "consumerProtections": {
+    "rightToRescind": {
+      "available": false,
+      "period": "N/A",
+      "notes": "Florida does not mandate a rescission period for title loans"
+    },
+    "requiredDisclosures": [
+      "Make, model, year, and VIN of vehicle",
+      "Vehicle license plate number",
+      "Borrower name, address, date of birth, physical description, and SSN",
+      "Date of agreement execution",
+      "Amount financed (principal)",
+      "Maturity date (30 days from execution)",
+      "Total finance charge (interest)",
+      "Total of all payments",
+      "Annual Percentage Rate (APR) per Truth in Lending Act",
+      "Name and physical address of title loan office",
+      "Florida OFR contact information for complaints",
+      "Statement regarding repossession rights and surplus proceeds",
+      "Statement regarding lost agreement procedures"
+    ],
+    "prohibitedPractices": [
+      "Charging interest exceeding statutory limits",
+      "Capitalizing unpaid interest into principal on extensions",
+      "Operating without a license",
+      "Making false or deceptive advertising",
+      "Fraud, misrepresentation, or deceit in any transaction",
+      "Failing to maintain required records",
+      "Refusing to provide information to OFR",
+      "Aiding others in circumventing title loan laws",
+      "Taking additional security beyond title",
+      "Acquiring borrower property through non-commercially reasonable means"
+    ],
+    "collectionRules": {
+      "canRepossess": true,
+      "gracePeriod": "30 days after maturity date (or extension) before repossession",
+      "repossessionAgent": "Must use state-licensed repossession agent",
+      "priorNotice": "Must offer borrower opportunity to make vehicle available",
+      "personalBelongings": "Must allow borrower to remove personal belongings before repossession",
+      "saleNotice": "10 days written notice before sale required",
+      "saleMethod": "Must sell through licensed motor vehicle dealer",
+      "surplusReturn": "Must return surplus proceeds within 30 days of sale",
+      "redemptionRight": "Borrower may redeem vehicle any time before sale by paying balance plus costs",
+      "purchaseAtSale": "Borrower may purchase vehicle at any sale"
+    },
+    "complaintProcess": {
+      "agency": "Florida Office of Financial Regulation",
+      "url": "https://flofr.gov",
+      "phone": "(850) 487-9687"
+    }
+  },
+
+  "penalties": {
+    "excessInterestBonafideError": "Loan voidable; lender must refund excess within 20 days of discovery",
+    "excessInterestCircumvention": "Loan VOID; lender must refund ALL interest paid AND return property; lender forfeits right to collect principal",
+    "unlicensedLending": "Loan VOID; lender forfeits all principal and interest; must return all payments plus property; borrower entitled to attorney fees",
+    "usury": "Violation of Chapter 687 (Usury) with applicable penalties",
+    "administrativeFine": "Up to $5,000 per violation",
+    "licenseActions": "Denial, suspension, revocation, probation, or reprimand"
+  },
+
+  "keyStatutes": [
+    {
+      "name": "Florida Title Loan Act",
+      "code": "Florida Statutes Chapter 537",
+      "description": "Comprehensive law governing title loans in Florida"
+    },
+    {
+      "name": "Short Title",
+      "code": "Section 537.001",
+      "description": "Establishes the Florida Title Loan Act"
+    },
+    {
+      "name": "Definitions",
+      "code": "Section 537.003",
+      "description": "Defines key terms including title loan, lender, and consumer"
+    },
+    {
+      "name": "License Required",
+      "code": "Section 537.004",
+      "description": "Mandates licensing for all title loan lenders"
+    },
+    {
+      "name": "Title Loan Agreement",
+      "code": "Section 537.008",
+      "description": "Requirements for written agreements and disclosures"
+    },
+    {
+      "name": "Title Loan Charges",
+      "code": "Section 537.011",
+      "description": "Establishes tiered interest rate caps"
+    },
+    {
+      "name": "Repossession and Disposal",
+      "code": "Section 537.012",
+      "description": "Rules for repossession, sale, and surplus proceeds"
+    },
+    {
+      "name": "Prohibited Acts",
+      "code": "Section 537.013",
+      "description": "Lists practices prohibited by title loan lenders"
+    },
+    {
+      "name": "Consumer Finance",
+      "code": "Florida Statutes Chapter 516",
+      "description": "Alternative framework for larger consumer loans"
+    }
+  ],
+
+  "recentChanges": [
+    {
+      "date": "2024-01-01",
+      "change": "Continued enforcement under existing Chapter 537 framework",
+      "source": "Florida Office of Financial Regulation",
+      "effectiveDate": "2024-01-01"
+    },
+    {
+      "date": "2008-01-01",
+      "change": "Chapter 537 amended to clarify definitions and supersede other state laws regarding title loans",
+      "source": "Chapter 2008-42, Laws of Florida",
+      "effectiveDate": "2008-01-01"
+    }
+  ],
+
+  "cityPageContent": {
+    "headline": "Understanding Title Loan Laws in Florida",
+    "intro": "Residents of {{city}} are protected by the Florida Title Loan Act (Chapter 537), which provides comprehensive consumer protections and strict interest rate caps for title loan borrowers.",
+    "keyPoints": [
+      "Florida caps interest at 30% APR on the first $2,000, 24% on $2,000-$3,000, and 18% on amounts over $3,000",
+      "All title loan lenders must be licensed by the Florida Office of Financial Regulation",
+      "Initial loan term is 30 days, with extensions permitted by mutual consent",
+      "Lenders cannot capitalize unpaid interest into principal on extensions",
+      "If your vehicle is repossessed, you must receive 10 days notice before sale",
+      "You are entitled to surplus proceeds within 30 days of vehicle sale",
+      "You may redeem your vehicle any time before sale by paying balance plus costs",
+      "Verify lender license at flofr.gov or call (850) 487-9687"
+    ],
+    "disclaimer": "This information is for general educational purposes only and may not reflect the most current legal developments. Laws and regulations change frequently. Always consult with a licensed attorney or contact the Florida Office of Financial Regulation at (850) 487-9687 or visit flofr.gov for the most accurate and up-to-date information before making any financial decisions."
+  },
+
+  "strictnessLevel": "moderate",
+  "enforcementRating": "moderate"
+}

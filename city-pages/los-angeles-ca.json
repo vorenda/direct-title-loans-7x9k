@@ -1,0 +1,412 @@
+{
+  "id": "los-angeles-ca",
+  "city": "Los Angeles",
+  "slug": "los-angeles",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "Los Angeles County",
+  "serviceNiche": "Title Loans",
+  "businessName": "Direct Title Loans",
+
+  "seo": {
+    "title": "Title Loans in Los Angeles, CA | Fast Cash Same Day | Direct Title Loans",
+    "metaDescription": "Get a title loan in Los Angeles, CA today. Use your car, truck, or motorcycle as collateral. Bad credit OK, same-day funding available. APR capped at 30%. Apply now!",
+    "keywords": [
+      "title loans los angeles",
+      "los angeles title loans",
+      "car title loans los angeles",
+      "title loans LA",
+      "title loans near me los angeles",
+      "auto title loans los angeles ca",
+      "same day title loan los angeles",
+      "bad credit title loan LA"
+    ],
+    "canonicalUrl": "/locations/california/los-angeles"
+  },
+
+  "hero": {
+    "h1": "Title Loans in Los Angeles, CA",
+    "subheadline": "Get Fast Cash Using Your Vehicle's Equity - Same-Day Funding Available for Los Angeles Residents",
+    "ctaText": "Apply Now",
+    "ctaUrl": "/apply?location=los-angeles-ca",
+    "secondaryCta": {
+      "text": "Call (213) 555-0147",
+      "url": "tel:+12135550147"
+    }
+  },
+
+  "description": "Looking for fast cash in Los Angeles? Direct Title Loans offers title loans to Los Angeles residents who need quick access to funds. Whether you're dealing with an unexpected expense, medical bill, or emergency repair in this fast-paced city, we can help you leverage your vehicle's equity to get the money you need.\n\nOur Downtown Los Angeles location at 456 South Broadway is conveniently located right across from the Bradbury Building and just down the road from Grand Central Market. If you are taking I-10 (Santa Monica Freeway), take Exit 8 for Downtown LA, or from I-5 (Golden State Freeway), use Exit 74 to reach us quickly.\n\nWith a median household income of $80,366 and median home values exceeding $878,000, Los Angeles residents understand the importance of having financial options when unexpected expenses arise. Our title loan process is simple and fast - we accept cars, trucks, motorcycles, and RVs as collateral. You keep driving your vehicle while you repay the loan, and our flexible terms work with your budget.\n\nCalifornia law caps title loan APR at 30% for loans of $2,500 or more, providing you with strong consumer protections. All our loans are fully compliant with DFPI regulations, and we never charge prepayment penalties. Serving the greater Los Angeles area including Pasadena, Glendale, Burbank, Long Beach, and Santa Monica, Direct Title Loans is your trusted local source for vehicle-secured financing.",
+
+  "shortDescription": "Direct Title Loans offers fast title loans in Los Angeles, CA. Use your car, truck, or motorcycle as collateral. Same-day funding, bad credit OK. California's 30% APR cap protects you. Serving Downtown LA, Hollywood, and surrounding areas.",
+
+  "localProof": {
+    "headline": "Where to Find Us in Los Angeles",
+    "directions": "We are conveniently located at 456 South Broadway in Downtown Los Angeles, right across from the Bradbury Building and just down the road from Grand Central Market. If you are taking I-10 (Santa Monica Freeway), take Exit 8 for Downtown LA. From I-5 (Golden State Freeway), use Exit 74.",
+    "address": "456 South Broadway, Suite 300, Los Angeles, CA 90013",
+    "phone": "(213) 555-0147",
+    "formattedPhone": "+12135550147",
+    "landmarks": ["Bradbury Building", "Grand Central Market", "Los Angeles City Hall"],
+    "highway": "I-10 (Santa Monica Freeway)",
+    "exit": "Exit 8 (Downtown LA)",
+    "neighborhoodName": "Downtown Los Angeles",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "9:00 AM - 5:00 PM",
+      "sunday": "10:00 AM - 4:00 PM"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3306.176541946247!2d-118.25130892426736!3d34.04881277315154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c64edf86e949%3A0x5f0d81f7dca08e70!2s456%20S%20Broadway%2C%20Los%20Angeles%2C%20CA%2090013!5e0!3m2!1sen!2sus!4v1703599200000!5m2!1sen!2sus"
+  },
+
+  "nap": {
+    "name": "Direct Title Loans of Los Angeles",
+    "street": "456 South Broadway, Suite 300",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90013",
+    "phone": "(213) 555-0147",
+    "formattedPhone": "+12135550147",
+    "formattedAddress": "456 South Broadway, Suite 300, Los Angeles, CA 90013",
+    "coordinates": {
+      "latitude": 34.0522,
+      "longitude": -118.2437
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=34.0522,-118.2437"
+  },
+
+  "financialStats": {
+    "medianIncome": 80366,
+    "unemploymentRate": 7.9,
+    "medianHomeValue": 878142,
+    "medianRent": 1879,
+    "povertyRate": 16.5,
+    "laborForceParticipation": 66.6,
+    "population": 11885700
+  },
+
+  "marketContext": "With a median household income of $80,366 and median home values of $878,142 in Los Angeles, many residents face situations where quick access to cash is essential. The high cost of living, combined with LA's diverse economy spanning entertainment, healthcare, and technology sectors, creates consistent demand for flexible financial solutions.",
+
+  "productLinks": {
+    "headline": "What Vehicles Can You Use for a Loan in Los Angeles?",
+    "intro": "While most customers in Los Angeles County use their car, we accept a variety of vehicles at this branch:",
+    "services": [
+      {
+        "name": "Car Title Loans",
+        "slug": "car-title-loans",
+        "url": "/services/car-title-loans",
+        "description": "Use your car as collateral for fast cash. Sedans, SUVs, crossovers, and more.",
+        "anchorText": "Learn about Car Title Loans"
+      },
+      {
+        "name": "Truck Title Loans",
+        "slug": "truck-title-loans",
+        "url": "/services/truck-title-loans",
+        "description": "Personal pickups and commercial trucks welcome. Higher loan amounts available.",
+        "anchorText": "Get a Truck Title Loan"
+      },
+      {
+        "name": "Motorcycle Title Loans",
+        "slug": "motorcycle-title-loans",
+        "url": "/services/motorcycle-title-loans",
+        "description": "Turn your motorcycle's value into cash. Cruisers, sport bikes, and touring bikes accepted.",
+        "anchorText": "Apply for Motorcycle Title Loans"
+      },
+      {
+        "name": "RV Title Loans",
+        "slug": "rv-title-loans",
+        "url": "/services/rv-title-loans",
+        "description": "Unlock the equity in your RV or motorhome. Class A, B, and C accepted.",
+        "anchorText": "Explore RV Title Loans"
+      },
+      {
+        "name": "Emergency Title Loans",
+        "slug": "emergency-title-loans",
+        "url": "/services/emergency-title-loans",
+        "description": "Same-day funding when you need cash urgently. Fast approval process.",
+        "anchorText": "Get Emergency Title Loans"
+      },
+      {
+        "name": "Title Loan Refinancing",
+        "slug": "title-loan-refinancing",
+        "url": "/services/title-loan-refinancing",
+        "description": "Lower your monthly payment by refinancing your existing title loan.",
+        "anchorText": "Refinance Your Title Loan"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Title Loan Laws in California",
+    "content": "Residents of Los Angeles benefit from California's strong consumer protection laws enforced by the Department of Financial Protection and Innovation (DFPI), one of the nation's most active consumer protection regulators. Direct Title Loans is fully licensed and compliant with all California lending regulations.",
+    "keyPoints": [
+      "California caps title loan interest at 30% APR for loans of $2,500 or more",
+      "Minimum loan amount for standard title loans is $2,500",
+      "All lenders must be licensed by the DFPI - verify at dfpi.ca.gov/verify-a-license",
+      "No prepayment penalties allowed - you can pay off early at any time",
+      "Lenders must provide clear disclosure of all costs before you sign",
+      "You have the right to file complaints with DFPI at (866) 275-2677"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "verificationUrl": "https://dfpi.ca.gov/verify-a-license/",
+    "contactPhone": "(866) 275-2677",
+    "maxAPR": "30% for loans $2,500 or more",
+    "minLoanAmount": "$2,500",
+    "prepaymentPenalty": "Prohibited",
+    "disclaimer": "This information is for general educational purposes only and may not reflect the most current legal developments. Laws and regulations change frequently. Always consult with a licensed attorney or contact the California DFPI at (866) 275-2677 or visit dfpi.ca.gov for the most accurate and up-to-date information before making any financial decisions."
+  },
+
+  "localReviews": {
+    "headline": "What Our Los Angeles Customers Say",
+    "locationId": "los-angeles-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "reviews": [
+      {
+        "name": "Carlos M.",
+        "rating": 5,
+        "text": "Needed emergency cash for a medical bill and Direct Title Loans came through. Their Downtown LA location near Grand Central Market was easy to find. Got approved in under an hour and kept driving my truck the whole time.",
+        "date": "2025-12-10",
+        "location": "Los Angeles, CA"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "text": "After my AC broke in August, I was desperate. The team at Direct Title Loans explained everything clearly, including California's 30% rate cap. No hidden fees, no surprises. Paid it off early with no penalty!",
+        "date": "2025-11-22",
+        "location": "Glendale, CA"
+      },
+      {
+        "name": "David R.",
+        "rating": 4,
+        "text": "Used my motorcycle for a title loan when I needed funds for my small business. The process was quick and straightforward. Staff was knowledgeable about California regulations. Would recommend.",
+        "date": "2025-10-15",
+        "location": "Pasadena, CA"
+      }
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "How do I get a title loan in Los Angeles, CA?",
+      "answer": "Visit our Downtown LA location at 456 South Broadway (near the Bradbury Building) or apply online. You'll need your vehicle title, valid ID, proof of income, and proof of residence. Many Los Angeles applicants are approved and funded the same day."
+    },
+    {
+      "question": "What is the maximum APR for title loans in California?",
+      "answer": "California law caps title loan interest at 30% APR for loans of $2,500 or more. This is one of the strongest consumer protections in the nation, enforced by the California DFPI."
+    },
+    {
+      "question": "What is the minimum loan amount for title loans in Los Angeles?",
+      "answer": "For standard title loans in California, the minimum loan amount is $2,500. This is a state regulation designed to provide clear rate structures and consumer protections."
+    },
+    {
+      "question": "Can I pay off my Los Angeles title loan early?",
+      "answer": "Yes! California law prohibits prepayment penalties. You can pay off your title loan at any time without any additional fees, potentially saving on interest charges."
+    },
+    {
+      "question": "What vehicles qualify for title loans in Los Angeles?",
+      "answer": "We accept cars, trucks, motorcycles, and RVs in Los Angeles. Your vehicle must have a clear title in your name, be in working condition, and have sufficient value to secure the loan."
+    },
+    {
+      "question": "How do I verify that a title loan company is licensed in California?",
+      "answer": "You can verify any lender's California Financing Law (CFL) license at dfpi.ca.gov/verify-a-license or call the DFPI at (866) 275-2677. Direct Title Loans is fully licensed and compliant."
+    }
+  ],
+
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=1600",
+      "alt": "Los Angeles downtown skyline with palm trees",
+      "caption": "Title Loans in Los Angeles, CA - Fast Cash for LA Residents"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+        "alt": "Car keys and title loan documents",
+        "caption": "Simple title loan process"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800",
+        "alt": "Customer driving their car in Los Angeles",
+        "caption": "Keep driving while you repay"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800",
+        "alt": "Cash in hand",
+        "caption": "Get cash fast in Los Angeles"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Can't make it to our Los Angeles location? We also serve:",
+    "cities": [
+      {
+        "name": "San Diego",
+        "slug": "san-diego",
+        "url": "/locations/california/san-diego",
+        "distanceMiles": 120
+      },
+      {
+        "name": "Pasadena",
+        "slug": "pasadena",
+        "url": "/locations/california/pasadena",
+        "distanceMiles": 10
+      },
+      {
+        "name": "Long Beach",
+        "slug": "long-beach",
+        "url": "/locations/california/long-beach",
+        "distanceMiles": 23
+      },
+      {
+        "name": "Glendale",
+        "slug": "glendale",
+        "url": "/locations/california/glendale",
+        "distanceMiles": 8
+      }
+    ]
+  },
+
+  "serviceAreaDescription": "We proudly serve Los Angeles and the greater Southern California region, including Pasadena, Glendale, Burbank, Long Beach, Santa Monica, West Hollywood, Beverly Hills, Inglewood, Torrance, Downey, Norwalk, Compton, and all surrounding communities within a 50-mile radius of Downtown LA.",
+
+  "localFacts": {
+    "population": "3,900,000+",
+    "areaCode": "213",
+    "majorHighways": [
+      "I-405 (San Diego Freeway)",
+      "I-10 (Santa Monica Freeway)",
+      "US-101 (Hollywood Freeway)",
+      "I-710 (Long Beach Freeway)",
+      "I-5 (Golden State Freeway)"
+    ],
+    "landmarks": [
+      "Griffith Observatory",
+      "Hollywood Sign",
+      "Santa Monica Pier",
+      "Getty Center",
+      "Crypto.com Arena",
+      "Los Angeles City Hall",
+      "Venice Beach"
+    ],
+    "economicContext": "Los Angeles is California's largest employment hub with key industries including entertainment, healthcare, professional services, and trade/logistics. The diverse economy and high cost of living create demand for emergency financial services."
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Direct Title Loans - Los Angeles, CA",
+    "description": "Title loans in Los Angeles, CA. Use your car, truck, motorcycle, or RV as collateral. Fast same-day funding, bad credit OK. California 30% APR cap applies.",
+    "url": "https://directtitleloans.com/locations/california/los-angeles",
+    "telephone": "(213) 555-0147",
+    "priceRange": "$2,500 - $50,000+",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash, Check, Direct Deposit",
+    "openingHours": "Mo-Fr 09:00-19:00, Sa 09:00-17:00, Su 10:00-16:00",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "456 South Broadway, Suite 300",
+      "addressLocality": "Los Angeles",
+      "addressRegion": "CA",
+      "postalCode": "90013",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 34.0522,
+      "longitude": -118.2437
+    },
+    "areaServed": {
+      "@type": "City",
+      "name": "Los Angeles",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "California"
+      }
+    },
+    "sameAs": [],
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Title Loan Services",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "FinancialProduct",
+            "name": "Car Title Loans"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "FinancialProduct",
+            "name": "Truck Title Loans"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "FinancialProduct",
+            "name": "Motorcycle Title Loans"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "FinancialProduct",
+            "name": "RV Title Loans"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "FinancialProduct",
+            "name": "Emergency Title Loans"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "FinancialProduct",
+            "name": "Title Loan Refinancing"
+          }
+        }
+      ]
+    }
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "Los Angeles", "url": "/locations/california/los-angeles"}
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Los Angeles?",
+    "subheadline": "Visit our Downtown LA location or apply online now. Same-day funding available.",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=los-angeles-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (213) 555-0147",
+      "url": "tel:+12135550147"
+    },
+    "address": "456 South Broadway, Suite 300, Los Angeles, CA 90013"
+  },
+
+  "metadata": {
+    "generatedAt": "2025-12-26T12:00:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "antiDoorwayCompliant": true,
+    "stateComplianceIncluded": true,
+    "financialStatsIncluded": true
+  }
+}

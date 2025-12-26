@@ -1,0 +1,531 @@
+{
+  "mode": "state",
+  "serviceArea": {
+    "name": "California and Florida",
+    "type": "multi-state",
+    "states": ["CA", "FL"]
+  },
+  "totalLocations": 4,
+  "generatedAt": "2025-12-26T12:00:00Z",
+  "cacheStatus": {
+    "losAngelesCa": "CACHE HIT",
+    "sanDiegoCa": "CACHE HIT",
+    "miamifl": "CACHE HIT",
+    "tampaFl": "CACHE HIT"
+  },
+  "states": [
+    {
+      "name": "California",
+      "abbreviation": "CA",
+      "cities": [
+        {
+          "id": "los-angeles-ca",
+          "name": "Los Angeles",
+          "slug": "los-angeles",
+          "state": "California",
+          "stateCode": "CA",
+          "type": "city",
+          "population": 3900000,
+          "countyName": "Los Angeles County",
+          "localAreaCode": "213",
+          "coordinates": {
+            "latitude": 34.0522,
+            "longitude": -118.2437
+          },
+          "localFacts": {
+            "landmarks": [
+              "Griffith Observatory",
+              "Hollywood Sign",
+              "Santa Monica Pier",
+              "Getty Center",
+              "Crypto.com Arena",
+              "Los Angeles City Hall",
+              "Venice Beach",
+              "Olvera Street",
+              "Echo Park"
+            ],
+            "highways": [
+              "I-405 (San Diego Freeway)",
+              "I-10 (Santa Monica Freeway)",
+              "US-101 (Hollywood Freeway)",
+              "I-710 (Long Beach Freeway)",
+              "I-5 (Golden State Freeway)"
+            ],
+            "majorExits": [
+              "I-405 Exit 53 (Sunset Blvd - Hollywood)",
+              "I-10 Exit 8 (Downtown LA)",
+              "I-5 Exit 74 (Downtown LA)"
+            ],
+            "neighboringCities": [
+              "Pasadena",
+              "Long Beach",
+              "Glendale",
+              "Burbank",
+              "Santa Monica",
+              "West Hollywood",
+              "Beverly Hills",
+              "Inglewood"
+            ],
+            "areaCode": "213",
+            "economicContext": "Los Angeles is California's largest employment hub with over 18 million nonfarm jobs statewide. Key industries include entertainment, healthcare, professional services, and trade/logistics. The region has seen steady job growth of 1.6% year-over-year, with Private Education and Health Services leading gains. The diverse economy and high cost of living create demand for emergency financial services."
+          },
+          "neuralMesh": {
+            "ringPosition": 0,
+            "neighbors": [
+              { "id": "san-diego-ca", "name": "San Diego", "slug": "san-diego", "distanceMiles": 120 }
+            ]
+          }
+        },
+        {
+          "id": "san-diego-ca",
+          "name": "San Diego",
+          "slug": "san-diego",
+          "state": "California",
+          "stateCode": "CA",
+          "type": "city",
+          "population": 1420000,
+          "countyName": "San Diego County",
+          "localAreaCode": "619",
+          "coordinates": {
+            "latitude": 32.7157,
+            "longitude": -117.1611
+          },
+          "localFacts": {
+            "landmarks": [
+              "San Diego Zoo",
+              "Balboa Park",
+              "Torrey Pines State Reserve",
+              "USS Midway Museum",
+              "Sunset Cliffs Natural Park",
+              "SeaWorld San Diego"
+            ],
+            "highways": [
+              "I-5 (Santa Fe Freeway)",
+              "I-8 (Kumeyaay Highway)",
+              "I-805 (South Bay Freeway)",
+              "CA-163 (Cabrillo Freeway)",
+              "I-15 (Escondido Freeway)"
+            ],
+            "majorExits": [
+              "I-5 Exit 17 (Downtown San Diego)",
+              "I-5 Exit 27 (Balboa Park)",
+              "I-8 Exit 9 (Mission Valley)"
+            ],
+            "neighboringCities": [
+              "La Jolla",
+              "Coronado",
+              "National City",
+              "Chula Vista",
+              "El Cajon",
+              "Santee",
+              "La Mesa",
+              "Escondido"
+            ],
+            "areaCode": "619",
+            "economicContext": "San Diego has a $261.7 billion gross regional product with 1.6 million regional jobs and $109,000 median household income. Key industries include life sciences, military and defense, tourism, and technology. The high cost of living (median home price $1 million) and dynamic economy create consistent demand for title loan services among vehicle owners needing quick access to cash."
+          },
+          "neuralMesh": {
+            "ringPosition": 1,
+            "neighbors": [
+              { "id": "los-angeles-ca", "name": "Los Angeles", "slug": "los-angeles", "distanceMiles": 120 }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "abbreviation": "FL",
+      "cities": [
+        {
+          "id": "miami-fl",
+          "name": "Miami",
+          "slug": "miami",
+          "state": "Florida",
+          "stateCode": "FL",
+          "type": "city",
+          "population": 450000,
+          "countyName": "Miami-Dade County",
+          "localAreaCode": "305",
+          "coordinates": {
+            "latitude": 25.7617,
+            "longitude": -80.1918
+          },
+          "localFacts": {
+            "landmarks": [
+              "Art Deco Historic District",
+              "Wynwood Walls",
+              "Vizcaya Museum & Gardens",
+              "Perez Art Museum Miami",
+              "South Pointe Park",
+              "Bayside Marketplace"
+            ],
+            "highways": [
+              "I-95 (Atlantic Coast Freeway)",
+              "Florida Turnpike",
+              "US-1 (Biscayne Boulevard)",
+              "I-395 (Dolphin Expressway)",
+              "SR-836 (Dolphin Expressway)"
+            ],
+            "majorExits": [
+              "I-95 Exit 12 (Downtown Miami)",
+              "I-95 Exit 15 (Wynwood)",
+              "I-395 Exit 2A (Wynwood Walls)"
+            ],
+            "neighboringCities": [
+              "Miami Beach",
+              "Coral Gables",
+              "Hialeah",
+              "Doral",
+              "Aventura",
+              "Homestead",
+              "Miami Springs",
+              "North Miami"
+            ],
+            "areaCode": "305",
+            "economicContext": "Miami is a major international business hub with strong tourism, real estate, finance, and trade sectors. The Miami area reported steady employment growth through December 2024. As a gateway to Latin America with diverse industries including hospitality and international commerce, Miami residents often need flexible financial solutions like title loans for unexpected expenses."
+          },
+          "neuralMesh": {
+            "ringPosition": 0,
+            "neighbors": [
+              { "id": "tampa-fl", "name": "Tampa", "slug": "tampa", "distanceMiles": 280 }
+            ]
+          }
+        },
+        {
+          "id": "tampa-fl",
+          "name": "Tampa",
+          "slug": "tampa",
+          "state": "Florida",
+          "stateCode": "FL",
+          "type": "city",
+          "population": 400000,
+          "countyName": "Hillsborough County",
+          "localAreaCode": "813",
+          "coordinates": {
+            "latitude": 27.9506,
+            "longitude": -82.4572
+          },
+          "localFacts": {
+            "landmarks": [
+              "Busch Gardens Tampa Bay",
+              "Florida Aquarium",
+              "Ybor City Historic District",
+              "Hyde Park Village",
+              "Tampa Riverwalk",
+              "Raymond James Stadium"
+            ],
+            "highways": [
+              "I-275 (Lee Roy Selmon Expressway)",
+              "I-4 (Dwight D. Eisenhower Freeway)",
+              "I-75 (Sunshine State Freeway)",
+              "Florida Turnpike",
+              "US-41 (Tampa Bay Bypass)"
+            ],
+            "majorExits": [
+              "I-275 Exit 41 (Downtown Tampa)",
+              "I-75 Exit 254 (Busch Gardens)",
+              "I-4 Exit 2 (Westshore)"
+            ],
+            "neighboringCities": [
+              "St. Petersburg",
+              "Clearwater",
+              "Brandon",
+              "Temple Terrace",
+              "Plant City",
+              "Lakeland",
+              "Pinellas Park",
+              "Largo"
+            ],
+            "areaCode": "813",
+            "economicContext": "Tampa has 1.56 million nonfarm jobs with 0.9% year-over-year employment growth as of September 2025. Average weekly wages are $1,337 across all industries. Key growth sectors include education and health services (+2.4%), construction (+2.9%), and government (+2.4%). The Tampa Bay area's growing population and diverse economy support demand for vehicle title loan services."
+          },
+          "neuralMesh": {
+            "ringPosition": 1,
+            "neighbors": [
+              { "id": "miami-fl", "name": "Miami", "slug": "miami", "distanceMiles": 280 }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "id": "los-angeles-ca",
+      "name": "Los Angeles",
+      "slug": "los-angeles",
+      "state": "California",
+      "stateCode": "CA",
+      "type": "city",
+      "population": 3900000,
+      "countyName": "Los Angeles County",
+      "localAreaCode": "213",
+      "coordinates": {
+        "latitude": 34.0522,
+        "longitude": -118.2437
+      },
+      "localFacts": {
+        "landmarks": [
+          "Griffith Observatory",
+          "Hollywood Sign",
+          "Santa Monica Pier",
+          "Getty Center",
+          "Crypto.com Arena",
+          "Los Angeles City Hall",
+          "Venice Beach",
+          "Olvera Street",
+          "Echo Park"
+        ],
+        "highways": [
+          "I-405 (San Diego Freeway)",
+          "I-10 (Santa Monica Freeway)",
+          "US-101 (Hollywood Freeway)",
+          "I-710 (Long Beach Freeway)",
+          "I-5 (Golden State Freeway)"
+        ],
+        "majorExits": [
+          "I-405 Exit 53 (Sunset Blvd - Hollywood)",
+          "I-10 Exit 8 (Downtown LA)",
+          "I-5 Exit 74 (Downtown LA)"
+        ],
+        "nearbyBusinessDistricts": [
+          "Downtown Los Angeles",
+          "Hollywood",
+          "Beverly Hills",
+          "Santa Monica"
+        ],
+        "neighboringTowns": [
+          "Pasadena",
+          "Long Beach",
+          "Glendale",
+          "Burbank",
+          "Santa Monica",
+          "West Hollywood",
+          "Beverly Hills",
+          "Inglewood"
+        ],
+        "majorEmployers": [
+          "Kaiser Permanente",
+          "University of California",
+          "Cedars-Sinai Medical Center"
+        ],
+        "universities": [
+          "UCLA",
+          "USC",
+          "Cal State LA"
+        ]
+      },
+      "neuralMesh": {
+        "ringPosition": 0,
+        "neighbors": [
+          { "id": "san-diego-ca", "name": "San Diego", "slug": "san-diego", "distanceMiles": 120 }
+        ]
+      }
+    },
+    {
+      "id": "san-diego-ca",
+      "name": "San Diego",
+      "slug": "san-diego",
+      "state": "California",
+      "stateCode": "CA",
+      "type": "city",
+      "population": 1420000,
+      "countyName": "San Diego County",
+      "localAreaCode": "619",
+      "coordinates": {
+        "latitude": 32.7157,
+        "longitude": -117.1611
+      },
+      "localFacts": {
+        "landmarks": [
+          "San Diego Zoo",
+          "Balboa Park",
+          "Torrey Pines State Reserve",
+          "USS Midway Museum",
+          "Sunset Cliffs Natural Park",
+          "SeaWorld San Diego"
+        ],
+        "highways": [
+          "I-5 (Santa Fe Freeway)",
+          "I-8 (Kumeyaay Highway)",
+          "I-805 (South Bay Freeway)",
+          "CA-163 (Cabrillo Freeway)",
+          "I-15 (Escondido Freeway)"
+        ],
+        "majorExits": [
+          "I-5 Exit 17 (Downtown San Diego)",
+          "I-5 Exit 27 (Balboa Park)",
+          "I-8 Exit 9 (Mission Valley)"
+        ],
+        "nearbyBusinessDistricts": [
+          "Downtown San Diego",
+          "Mission Valley",
+          "La Jolla",
+          "Gaslamp Quarter"
+        ],
+        "neighboringTowns": [
+          "La Jolla",
+          "Coronado",
+          "National City",
+          "Chula Vista",
+          "El Cajon",
+          "Santee",
+          "La Mesa",
+          "Escondido"
+        ],
+        "majorEmployers": [
+          "UC San Diego Health",
+          "Qualcomm",
+          "Sharp HealthCare"
+        ],
+        "universities": [
+          "UC San Diego",
+          "San Diego State University"
+        ]
+      },
+      "neuralMesh": {
+        "ringPosition": 1,
+        "neighbors": [
+          { "id": "los-angeles-ca", "name": "Los Angeles", "slug": "los-angeles", "distanceMiles": 120 }
+        ]
+      }
+    },
+    {
+      "id": "miami-fl",
+      "name": "Miami",
+      "slug": "miami",
+      "state": "Florida",
+      "stateCode": "FL",
+      "type": "city",
+      "population": 450000,
+      "countyName": "Miami-Dade County",
+      "localAreaCode": "305",
+      "coordinates": {
+        "latitude": 25.7617,
+        "longitude": -80.1918
+      },
+      "localFacts": {
+        "landmarks": [
+          "Art Deco Historic District",
+          "Wynwood Walls",
+          "Vizcaya Museum & Gardens",
+          "Perez Art Museum Miami",
+          "South Pointe Park",
+          "Bayside Marketplace"
+        ],
+        "highways": [
+          "I-95 (Atlantic Coast Freeway)",
+          "Florida Turnpike",
+          "US-1 (Biscayne Boulevard)",
+          "I-395 (Dolphin Expressway)",
+          "SR-836 (Dolphin Expressway)"
+        ],
+        "majorExits": [
+          "I-95 Exit 12 (Downtown Miami)",
+          "I-95 Exit 15 (Wynwood)",
+          "I-395 Exit 2A (Wynwood Walls)"
+        ],
+        "nearbyBusinessDistricts": [
+          "Downtown Miami",
+          "Brickell",
+          "Wynwood",
+          "Coral Gables"
+        ],
+        "neighboringTowns": [
+          "Miami Beach",
+          "Coral Gables",
+          "Hialeah",
+          "Doral",
+          "Aventura",
+          "Homestead",
+          "Miami Springs",
+          "North Miami"
+        ],
+        "majorEmployers": [
+          "Baptist Health South Florida",
+          "University of Miami",
+          "American Airlines"
+        ],
+        "universities": [
+          "University of Miami",
+          "Florida International University"
+        ]
+      },
+      "neuralMesh": {
+        "ringPosition": 0,
+        "neighbors": [
+          { "id": "tampa-fl", "name": "Tampa", "slug": "tampa", "distanceMiles": 280 }
+        ]
+      }
+    },
+    {
+      "id": "tampa-fl",
+      "name": "Tampa",
+      "slug": "tampa",
+      "state": "Florida",
+      "stateCode": "FL",
+      "type": "city",
+      "population": 400000,
+      "countyName": "Hillsborough County",
+      "localAreaCode": "813",
+      "coordinates": {
+        "latitude": 27.9506,
+        "longitude": -82.4572
+      },
+      "localFacts": {
+        "landmarks": [
+          "Busch Gardens Tampa Bay",
+          "Florida Aquarium",
+          "Ybor City Historic District",
+          "Hyde Park Village",
+          "Tampa Riverwalk",
+          "Raymond James Stadium"
+        ],
+        "highways": [
+          "I-275 (Lee Roy Selmon Expressway)",
+          "I-4 (Dwight D. Eisenhower Freeway)",
+          "I-75 (Sunshine State Freeway)",
+          "Florida Turnpike",
+          "US-41 (Tampa Bay Bypass)"
+        ],
+        "majorExits": [
+          "I-275 Exit 41 (Downtown Tampa)",
+          "I-75 Exit 254 (Busch Gardens)",
+          "I-4 Exit 2 (Westshore)"
+        ],
+        "nearbyBusinessDistricts": [
+          "Downtown Tampa",
+          "Ybor City",
+          "Westshore",
+          "Hyde Park"
+        ],
+        "neighboringTowns": [
+          "St. Petersburg",
+          "Clearwater",
+          "Brandon",
+          "Temple Terrace",
+          "Plant City",
+          "Lakeland",
+          "Pinellas Park",
+          "Largo"
+        ],
+        "majorEmployers": [
+          "Tampa General Hospital",
+          "University of South Florida",
+          "USAA"
+        ],
+        "universities": [
+          "University of South Florida",
+          "University of Tampa"
+        ]
+      },
+      "neuralMesh": {
+        "ringPosition": 1,
+        "neighbors": [
+          { "id": "miami-fl", "name": "Miami", "slug": "miami", "distanceMiles": 280 }
+        ]
+      }
+    }
+  ]
+}

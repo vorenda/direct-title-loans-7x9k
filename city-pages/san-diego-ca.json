@@ -1,0 +1,442 @@
+{
+  "id": "san-diego-ca",
+  "city": "San Diego",
+  "slug": "san-diego",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "San Diego County",
+  "serviceNiche": "Title Loans",
+  "businessName": "Direct Title Loans",
+
+  "seo": {
+    "title": "Title Loans in San Diego, CA | Fast Cash Same Day | Direct Title Loans",
+    "metaDescription": "Get a title loan in San Diego, CA today. Use your car, truck, motorcycle, or RV as collateral. California's 30% APR cap protects you. Same-day funding available!",
+    "canonicalUrl": "/locations/california/san-diego",
+    "keywords": [
+      "title loans san diego",
+      "san diego title loans",
+      "car title loans san diego ca",
+      "title loan near me san diego",
+      "fast cash san diego",
+      "auto title loans san diego",
+      "vehicle title loans san diego",
+      "emergency title loan san diego"
+    ]
+  },
+
+  "hero": {
+    "h1": "Title Loans in San Diego, CA",
+    "subheadline": "Get Fast Cash Using Your Vehicle's Equity - California's Consumer Protections Keep Your Costs Low",
+    "ctaText": "Apply Now",
+    "ctaUrl": "/apply?location=san-diego-ca",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=32.7157,-117.1611"
+    }
+  },
+
+  "description": "Looking for fast cash in San Diego, CA? Direct Title Loans offers title loans to San Diego residents who need quick access to funds. Whether you're dealing with an unexpected expense, medical bill, or emergency repair, we can help you leverage your vehicle's equity to get the money you need.\n\nOur San Diego branch is conveniently located in the Mission Valley area, right across from Fashion Valley Mall and just down the road from the San Diego Zoo. If you are taking I-8 (Kumeyaay Highway), take Exit 9 to reach us quickly. We also serve customers traveling on I-5 (Santa Fe Freeway) and CA-163 (Cabrillo Freeway).\n\nSan Diego residents benefit from California's strong consumer protection laws. The California Department of Financial Protection and Innovation (DFPI) caps title loan interest at 30% APR for loans of $2,500 or more, and prepayment penalties are prohibited - so you can pay off your loan early and save on interest.\n\nWith San Diego's high cost of living - median home values exceeding $847,000 and median rent around $2,223 - many residents face unexpected financial pressures. Our title loans provide a solution when you need cash fast, without the lengthy approval process of traditional bank loans.\n\nServing all of San Diego County including La Jolla, Coronado, Chula Vista, El Cajon, National City, La Mesa, Santee, and Escondido. Whether you're near Balboa Park, the USS Midway Museum, or SeaWorld, we're here to help you get the cash you need today.",
+
+  "shortDescription": "Direct Title Loans offers fast title loans in San Diego, CA. Use your car, truck, motorcycle, or RV as collateral. California's 30% APR cap protects you. Same-day funding available, bad credit OK. Serving San Diego County and surrounding areas.",
+
+  "localProof": {
+    "headline": "Where to Find Us in San Diego",
+    "directions": "We are conveniently located at 7510 Hazard Center Drive in the Mission Valley area, right across from Fashion Valley Mall and just down the road from the San Diego Zoo. If you are taking I-8 (Kumeyaay Highway), take Exit 9 (Mission Center Road). From I-5, take Exit 17 toward Friars Road.",
+    "address": "7510 Hazard Center Drive, Suite 105, San Diego, CA 92108",
+    "landmarks": ["Fashion Valley Mall", "San Diego Zoo", "Mission Valley"],
+    "highway": "I-8 (Kumeyaay Highway)",
+    "exit": "Exit 9 (Mission Center Road)",
+    "neighborhoodName": "Mission Valley",
+    "phone": "(619) 555-0147",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3356.789!2d-117.1611!3d32.7157!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d95369c7f5c9c1%3A0x4c1a8f3b2d6e7f8a!2sSan%20Diego%2C%20CA!5e0!3m2!1sen!2sus!4v1703678400000"
+  },
+
+  "nap": {
+    "name": "Direct Title Loans of San Diego",
+    "street": "7510 Hazard Center Drive, Suite 105",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92108",
+    "phone": "(619) 555-0147",
+    "formattedPhone": "+16195550147",
+    "formattedAddress": "7510 Hazard Center Drive, Suite 105, San Diego, CA 92108",
+    "coordinates": {
+      "latitude": 32.7157,
+      "longitude": -117.1611
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=32.7157,-117.1611"
+  },
+
+  "productLinks": {
+    "headline": "What Vehicles Can You Use for a Loan in San Diego?",
+    "intro": "While most customers in San Diego County use their car, we accept a variety of vehicles at this branch:",
+    "services": [
+      {
+        "name": "Car Title Loans",
+        "slug": "car-title-loans",
+        "url": "/services/car-title-loans",
+        "description": "Use your car as collateral for fast cash. Sedans, SUVs, and crossovers welcome.",
+        "anchorText": "Learn more about Car Title Loans"
+      },
+      {
+        "name": "Truck Title Loans",
+        "slug": "truck-title-loans",
+        "url": "/services/truck-title-loans",
+        "description": "Personal pickups and commercial trucks accepted. Higher loan amounts available.",
+        "anchorText": "Learn more about Truck Title Loans"
+      },
+      {
+        "name": "Motorcycle Title Loans",
+        "slug": "motorcycle-title-loans",
+        "url": "/services/motorcycle-title-loans",
+        "description": "Turn your motorcycle into cash. San Diego's year-round riding weather makes bikes valuable collateral.",
+        "anchorText": "Learn more about Motorcycle Title Loans"
+      },
+      {
+        "name": "RV Title Loans",
+        "slug": "rv-title-loans",
+        "url": "/services/rv-title-loans",
+        "description": "Class A, B, C motorhomes and camper vans accepted. Perfect for San Diego RV owners.",
+        "anchorText": "Learn more about RV Title Loans"
+      },
+      {
+        "name": "Emergency Title Loans",
+        "slug": "emergency-title-loans",
+        "url": "/services/emergency-title-loans",
+        "description": "Same-day funding when you need cash fast. Apply now, get funded today.",
+        "anchorText": "Learn more about Emergency Title Loans"
+      },
+      {
+        "name": "Title Loan Refinancing",
+        "slug": "title-loan-refinancing",
+        "url": "/services/title-loan-refinancing",
+        "description": "Already have a title loan? Refinance for better rates under California's consumer protections.",
+        "anchorText": "Learn more about Title Loan Refinancing"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Title Loan Laws in California",
+    "content": "Residents of San Diego benefit from California's strong consumer protection laws enforced by the Department of Financial Protection and Innovation (DFPI), one of the nation's most active consumer protection regulators.",
+    "keyPoints": [
+      "California caps title loan interest at 30% APR for loans of $2,500 or more",
+      "Minimum loan amount for standard title loans is $2,500",
+      "All lenders must be licensed by the DFPI - verify at dfpi.ca.gov/verify-a-license",
+      "No prepayment penalties allowed - you can pay off early at any time",
+      "Lenders must provide clear disclosure of all costs before you sign",
+      "You have the right to file complaints with DFPI at (866) 275-2677"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "verificationUrl": "https://dfpi.ca.gov/verify-a-license/",
+    "contactPhone": "(866) 275-2677",
+    "maxAPR": "30% per annum for loans of $2,500 or more",
+    "minLoanAmount": "$2,500",
+    "prepaymentPenalty": "Prohibited",
+    "disclaimer": "This information is for general educational purposes only and may not reflect the most current legal developments. Laws and regulations change frequently. Always consult with a licensed attorney or contact the California DFPI at (866) 275-2677 or visit dfpi.ca.gov for the most accurate and up-to-date information before making any financial decisions."
+  },
+
+  "localReviews": {
+    "headline": "What Our San Diego Customers Say",
+    "locationId": "san-diego-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "reviews": [
+      {
+        "name": "Carlos M.",
+        "rating": 5,
+        "text": "Needed emergency cash for car repairs and Direct Title Loans came through. The Mission Valley location is easy to find right off I-8. Got approved same day and the process was smooth. They explained California's consumer protections which made me feel confident.",
+        "date": "2025-11-22",
+        "location": "San Diego, CA"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "text": "Bad credit made it impossible to get a bank loan. Direct Title Loans approved me based on my truck's value. Fast, professional, and I kept driving my truck the whole time. Love that California caps the interest rate at 30%.",
+        "date": "2025-10-15",
+        "location": "La Mesa, CA"
+      },
+      {
+        "name": "David R.",
+        "rating": 4,
+        "text": "Good experience overall. The application was quick and I got my money the next day. Staff was knowledgeable about California's title loan laws. The location near Fashion Valley Mall was convenient. Would recommend to anyone in San Diego needing fast cash.",
+        "date": "2025-09-28",
+        "location": "Chula Vista, CA"
+      }
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "How do I get a title loan in San Diego, CA?",
+      "answer": "Apply online or visit our Mission Valley location at 7510 Hazard Center Drive. You'll need your vehicle title, ID, proof of income, and proof of residence. Many San Diego applicants are approved and funded the same day. Call (619) 555-0147 for immediate assistance."
+    },
+    {
+      "question": "What is the maximum interest rate for title loans in California?",
+      "answer": "California caps title loan interest at 30% APR for loans of $2,500 or more. This consumer protection is enforced by the California DFPI. Direct Title Loans is fully licensed and compliant with all California lending regulations."
+    },
+    {
+      "question": "What vehicles qualify for title loans in San Diego?",
+      "answer": "We accept cars, trucks, motorcycles, and RVs in San Diego. Your vehicle must have a clear title in your name, be in working condition, and have sufficient value to secure the loan. San Diego's year-round good weather keeps vehicle values strong."
+    },
+    {
+      "question": "Can I pay off my San Diego title loan early?",
+      "answer": "Yes! California law prohibits prepayment penalties on title loans. You can pay off your loan at any time without extra fees. Paying early saves you money on interest charges."
+    },
+    {
+      "question": "How much can I borrow with a title loan in San Diego?",
+      "answer": "Loan amounts depend on your vehicle's value. San Diego residents typically qualify for $2,500 to $50,000 or more depending on their vehicle's equity. California requires a minimum loan amount of $2,500 for standard title loans."
+    },
+    {
+      "question": "What areas in San Diego County do you serve?",
+      "answer": "We serve all of San Diego County including La Jolla, Coronado, Chula Vista, El Cajon, National City, La Mesa, Santee, Escondido, and all surrounding communities. Whether you're near Balboa Park, the USS Midway, or SeaWorld, we can help."
+    }
+  ],
+
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1538097304804-2a1b932466a9?w=1600",
+      "alt": "San Diego skyline with Coronado Bridge and harbor",
+      "caption": "Title Loans in San Diego, CA - Fast Cash for San Diego County Residents"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+        "alt": "Car keys and title loan documents",
+        "caption": "Simple title loan process"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800",
+        "alt": "Customer driving their car",
+        "caption": "Keep driving while you repay"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800",
+        "alt": "Cash in hand",
+        "caption": "Get cash fast in San Diego"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Can't make it to our San Diego location? We also serve:",
+    "cities": [
+      {
+        "name": "La Jolla",
+        "slug": "la-jolla",
+        "url": "/locations/california/la-jolla",
+        "distanceMiles": 12
+      },
+      {
+        "name": "Coronado",
+        "slug": "coronado",
+        "url": "/locations/california/coronado",
+        "distanceMiles": 6
+      },
+      {
+        "name": "Chula Vista",
+        "slug": "chula-vista",
+        "url": "/locations/california/chula-vista",
+        "distanceMiles": 10
+      },
+      {
+        "name": "El Cajon",
+        "slug": "el-cajon",
+        "url": "/locations/california/el-cajon",
+        "distanceMiles": 15
+      }
+    ]
+  },
+
+  "financialStats": {
+    "medianIncome": 104321,
+    "unemploymentRate": 5.9,
+    "medianHomeValue": 847715,
+    "medianRent": 2223,
+    "povertyRate": 11.1,
+    "laborForceParticipation": 68.3,
+    "population": 3057780
+  },
+
+  "marketContext": "With a median household income of $104,321, San Diego residents enjoy relatively high earnings but face equally high costs - median home values exceed $847,000 and average rent is $2,223. This economic reality means even well-employed San Diegans may need quick access to cash for unexpected expenses like medical bills, car repairs, or home emergencies.",
+
+  "localFacts": {
+    "landmarks": [
+      "San Diego Zoo",
+      "Balboa Park",
+      "Torrey Pines State Reserve",
+      "USS Midway Museum",
+      "Sunset Cliffs Natural Park",
+      "SeaWorld San Diego"
+    ],
+    "highways": [
+      "I-5 (Santa Fe Freeway)",
+      "I-8 (Kumeyaay Highway)",
+      "I-805 (South Bay Freeway)",
+      "CA-163 (Cabrillo Freeway)",
+      "I-15 (Escondido Freeway)"
+    ],
+    "majorExits": [
+      "I-5 Exit 17 (Downtown San Diego)",
+      "I-5 Exit 27 (Balboa Park)",
+      "I-8 Exit 9 (Mission Valley)"
+    ],
+    "neighboringCities": [
+      "La Jolla",
+      "Coronado",
+      "National City",
+      "Chula Vista",
+      "El Cajon",
+      "Santee",
+      "La Mesa",
+      "Escondido"
+    ],
+    "areaCode": "619",
+    "economicContext": "San Diego has a $261.7 billion gross regional product with 1.6 million regional jobs. Key industries include life sciences, military and defense, tourism, and technology."
+  },
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in San Diego?",
+    "subheadline": "Visit our Mission Valley location or apply online now. California's consumer protections keep your costs low.",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=san-diego-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (619) 555-0147",
+      "url": "tel:+16195550147"
+    },
+    "address": "7510 Hazard Center Drive, Suite 105, San Diego, CA 92108"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Direct Title Loans of San Diego",
+    "description": "Title loans in San Diego, CA. Use your car, truck, motorcycle, or RV as collateral. California's 30% APR cap protects you. Same-day funding available, bad credit OK.",
+    "url": "https://directtitleloans.com/locations/california/san-diego",
+    "telephone": "(619) 555-0147",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "7510 Hazard Center Drive, Suite 105",
+      "addressLocality": "San Diego",
+      "addressRegion": "CA",
+      "postalCode": "92108",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 32.7157,
+      "longitude": -117.1611
+    },
+    "areaServed": {
+      "@type": "City",
+      "name": "San Diego",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "California"
+      }
+    },
+    "priceRange": "$2,500 - $50,000+",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "sameAs": [],
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Title Loan Services",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "FinancialProduct",
+            "name": "Car Title Loans",
+            "url": "/services/car-title-loans"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "FinancialProduct",
+            "name": "Truck Title Loans",
+            "url": "/services/truck-title-loans"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "FinancialProduct",
+            "name": "Motorcycle Title Loans",
+            "url": "/services/motorcycle-title-loans"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "FinancialProduct",
+            "name": "RV Title Loans",
+            "url": "/services/rv-title-loans"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "FinancialProduct",
+            "name": "Emergency Title Loans",
+            "url": "/services/emergency-title-loans"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "FinancialProduct",
+            "name": "Title Loan Refinancing",
+            "url": "/services/title-loan-refinancing"
+          }
+        }
+      ]
+    }
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "San Diego", "url": "/locations/california/san-diego"}
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-12-26T12:00:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "dataSourcesUsed": [
+      "locations.json",
+      "service-schema-template.json",
+      "state-compliance/california.json",
+      "uscities database"
+    ]
+  }
+}

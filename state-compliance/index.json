@@ -1,0 +1,69 @@
+{
+  "serviceNiche": "Title Loans",
+  "totalStates": 50,
+  "statesResearched": 2,
+  "generatedAt": "2025-12-26T00:00:00Z",
+  "states": {
+    "CA": {
+      "name": "California",
+      "isLegal": true,
+      "maxAPR": "30% (for loans $2,500+)",
+      "tieredRates": true,
+      "strictnessLevel": "strict",
+      "enforcementRating": "high",
+      "regulatoryBody": "California DFPI",
+      "file": "california.json"
+    },
+    "FL": {
+      "name": "Florida",
+      "isLegal": true,
+      "maxAPR": "30% on first $2,000; 24% on $2,000-$3,000; 18% over $3,000",
+      "tieredRates": true,
+      "strictnessLevel": "moderate",
+      "enforcementRating": "moderate",
+      "regulatoryBody": "Florida OFR",
+      "file": "florida.json"
+    }
+  },
+  "statesByStrictness": {
+    "strict": ["CA"],
+    "moderate": ["FL"],
+    "permissive": [],
+    "prohibited": []
+  },
+  "comparisonSummary": {
+    "interestRateCaps": {
+      "CA": "Flat 30% APR for loans $2,500+; tiered rates for smaller loans",
+      "FL": "Tiered: 30% on first $2K, 24% on $2K-$3K, 18% over $3K"
+    },
+    "rolloversAllowed": {
+      "CA": false,
+      "FL": true
+    },
+    "prepaymentPenalties": {
+      "CA": "Prohibited",
+      "FL": "Prohibited"
+    },
+    "licensingRequired": {
+      "CA": true,
+      "FL": true
+    },
+    "rightToRescind": {
+      "CA": false,
+      "FL": false
+    },
+    "bondRequirements": {
+      "CA": "Varies by loan volume",
+      "FL": "$100,000 per license (max $1M aggregate)"
+    }
+  },
+  "researchMethodology": {
+    "primarySources": [
+      "State regulatory agency official websites",
+      "State statutes and codes",
+      "State legislative databases"
+    ],
+    "verificationMethod": "Cross-referenced with official state statute text and regulatory guidance",
+    "lastFullReview": "2025-12-26"
+  }
+}

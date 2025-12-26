@@ -1,0 +1,374 @@
+{
+  "id": "miami-fl",
+  "city": "Miami",
+  "slug": "miami",
+  "state": "Florida",
+  "stateCode": "FL",
+  "stateSlug": "florida",
+  "countyName": "Miami-Dade County",
+  "serviceNiche": "Title Loans",
+  "businessName": "Direct Title Loans",
+
+  "seo": {
+    "title": "Title Loans in Miami, FL | Fast Cash Same Day | Direct Title Loans",
+    "metaDescription": "Get a title loan in Miami, FL today. Use your car, truck, RV, or motorcycle as collateral. Bad credit OK, same-day funding available near Wynwood Walls. Apply now!",
+    "canonicalUrl": "/locations/florida/miami",
+    "keywords": ["title loans miami", "miami title loans", "car title loans miami fl", "title loan near me miami", "fast cash miami", "auto title loan miami", "title loans miami-dade county", "emergency title loan miami"]
+  },
+
+  "hero": {
+    "h1": "Title Loans in Miami, FL",
+    "subheadline": "Get Fast Cash Using Your Vehicle's Equity - Same-Day Funding Available for Miami-Dade Residents",
+    "ctaText": "Apply Now",
+    "ctaUrl": "/apply",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=1450+Brickell+Avenue+Miami+FL+33131"
+    }
+  },
+
+  "description": "Looking for fast cash in Miami, FL? Direct Title Loans offers title loans to Miami residents who need quick access to funds. Whether you are dealing with an unexpected expense, medical bill, or emergency repair, we can help you leverage your vehicle's equity to get the money you need.\n\nOur Downtown Miami branch is conveniently located at 1450 Brickell Avenue, right across from Bayside Marketplace and just down the road from the Perez Art Museum Miami. If you are taking I-95 (Atlantic Coast Freeway), take Exit 12 for the quickest route to our office. We are also accessible via US-1 (Biscayne Boulevard) for those coming from Coral Gables or Miami Beach.\n\nMiami is a major international business hub with strong tourism, real estate, finance, and trade sectors. With a median household income of $59,390, many Miami residents may need quick access to cash for unexpected expenses. Our title loan process is simple and fast. We accept cars, trucks, motorcycles, and RVs as collateral. You keep driving your vehicle while you repay the loan, and our flexible terms work with your budget.\n\nBad credit? No problem. Your vehicle's value is what matters most. Serving the greater Miami area including Miami Beach, Coral Gables, Hialeah, Doral, Aventura, and all of Miami-Dade County, Direct Title Loans is your trusted local source for vehicle-secured financing. Our team understands the Miami market and is here to help you through the entire process.\n\nWith same-day funding available, you could have cash in your hands today. Apply online or call our Miami team at (305) 555-0147 to get started.",
+
+  "shortDescription": "Direct Title Loans offers fast title loans in Miami, FL. Use your car, truck, motorcycle, or RV as collateral. Same-day funding, bad credit OK. Conveniently located near Bayside Marketplace, serving Miami-Dade County and surrounding areas.",
+
+  "localProof": {
+    "headline": "Where to Find Us in Miami",
+    "directions": "We are conveniently located at 1450 Brickell Avenue in the heart of the Brickell financial district, right across from Bayside Marketplace and just down the road from the Perez Art Museum Miami. If you are taking I-95, take Exit 12 (Downtown Miami). Coming from Miami Beach? Take the MacArthur Causeway (I-395) to US-1 South.",
+    "address": "1450 Brickell Avenue, Suite 300, Miami, FL 33131",
+    "phone": "(305) 555-0147",
+    "landmarks": ["Bayside Marketplace", "Perez Art Museum Miami", "Art Deco Historic District"],
+    "highway": "I-95 (Atlantic Coast Freeway)",
+    "exit": "Exit 12 (Downtown Miami)",
+    "neighborhoodName": "Brickell",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3592.8095478088397!2d-80.19439368497693!3d25.761681983630767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d9b69c8c4c8e5f%3A0x4c5b8d5c2e2f6e5a!2sBrickell%20Ave%2C%20Miami%2C%20FL!5e0!3m2!1sen!2sus!4v1703595600000!5m2!1sen!2sus"
+  },
+
+  "nap": {
+    "name": "Direct Title Loans of Miami",
+    "street": "1450 Brickell Avenue, Suite 300",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33131",
+    "phone": "(305) 555-0147",
+    "formattedPhone": "+13055550147",
+    "formattedAddress": "1450 Brickell Avenue, Suite 300, Miami, FL 33131",
+    "coordinates": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=25.7617,-80.1918"
+  },
+
+  "financialStats": {
+    "medianIncome": 59390,
+    "unemploymentRate": 5.0,
+    "medianHomeValue": 473979,
+    "medianRent": 1657,
+    "povertyRate": 19.2,
+    "laborForceParticipation": 66.7,
+    "population": 6113980
+  },
+
+  "marketContext": "With a median household income of $59,390 and median home values of $473,979, Miami residents often face financial pressures in this high-cost metropolitan area. Our title loan services provide quick access to cash for unexpected expenses without the lengthy approval process of traditional lenders.",
+
+  "productLinks": {
+    "headline": "What Vehicles Can You Use for a Loan in Miami?",
+    "intro": "While most customers in Miami-Dade County use their car, we accept a variety of vehicles at this branch:",
+    "services": [
+      {
+        "name": "Car Title Loans",
+        "slug": "car-title-loans",
+        "url": "/services/car-title-loans",
+        "description": "Use your car as collateral for fast cash. Sedans, SUVs, and coupes accepted.",
+        "anchorText": "Learn more about car title loans"
+      },
+      {
+        "name": "Truck Title Loans",
+        "slug": "truck-title-loans",
+        "url": "/services/truck-title-loans",
+        "description": "Personal and commercial trucks welcome. Pickups to semi-trucks accepted.",
+        "anchorText": "Learn more about truck title loans"
+      },
+      {
+        "name": "Motorcycle Title Loans",
+        "slug": "motorcycle-title-loans",
+        "url": "/services/motorcycle-title-loans",
+        "description": "Turn your bike into cash. Cruisers, sport bikes, and touring motorcycles.",
+        "anchorText": "Learn more about motorcycle title loans"
+      },
+      {
+        "name": "RV Title Loans",
+        "slug": "rv-title-loans",
+        "url": "/services/rv-title-loans",
+        "description": "Unlock the equity in your recreational vehicle. Class A, B, and C motorhomes.",
+        "anchorText": "Learn more about RV title loans"
+      },
+      {
+        "name": "Emergency Title Loans",
+        "slug": "emergency-title-loans",
+        "url": "/services/emergency-title-loans",
+        "description": "Same-day emergency funding when you need it most.",
+        "anchorText": "Learn more about emergency title loans"
+      },
+      {
+        "name": "Title Loan Refinancing",
+        "slug": "title-loan-refinancing",
+        "url": "/services/title-loan-refinancing",
+        "description": "Lower your payment by refinancing your existing title loan.",
+        "anchorText": "Learn more about title loan refinancing"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Title Loan Laws in Florida",
+    "content": "Residents of Miami are protected by the Florida Title Loan Act (Chapter 537), which provides comprehensive consumer protections and strict interest rate caps for title loan borrowers. Direct Title Loans is fully licensed by the Florida Office of Financial Regulation (OFR) and complies with all state lending requirements.",
+    "keyPoints": [
+      "Florida caps interest at 30% APR on the first $2,000, 24% on $2,000-$3,000, and 18% on amounts over $3,000",
+      "All title loan lenders must be licensed by the Florida Office of Financial Regulation",
+      "Initial loan term is 30 days, with extensions permitted by mutual consent",
+      "Lenders cannot capitalize unpaid interest into principal on extensions",
+      "If your vehicle is repossessed, you must receive 10 days notice before sale",
+      "You are entitled to surplus proceeds within 30 days of vehicle sale",
+      "You may redeem your vehicle any time before sale by paying balance plus costs",
+      "Verify lender license at flofr.gov or call (850) 487-9687"
+    ],
+    "regulatoryBody": "Florida Office of Financial Regulation (OFR)",
+    "regulatoryUrl": "https://flofr.gov",
+    "verificationUrl": "https://flofr.gov/divisions-offices/division-of-consumer-finance/title-loan-companies",
+    "contactPhone": "(850) 487-9687",
+    "disclaimer": "This information is for general educational purposes only and may not reflect the most current legal developments. Laws and regulations change frequently. Always consult with a licensed attorney or contact the Florida Office of Financial Regulation at (850) 487-9687 or visit flofr.gov for the most accurate and up-to-date information before making any financial decisions."
+  },
+
+  "localReviews": {
+    "headline": "What Our Miami Customers Say",
+    "locationId": "miami-fl",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "reviews": [
+      {
+        "name": "Carlos M.",
+        "rating": 5,
+        "text": "I needed emergency cash for my daughter's tuition and Direct Title Loans came through. Got approved same day at their Brickell location and the process was so easy. The Miami team was very professional and explained everything in Spanish when I needed help understanding the terms.",
+        "date": "2025-11-28",
+        "location": "Miami, FL"
+      },
+      {
+        "name": "Jennifer R.",
+        "rating": 5,
+        "text": "Bad credit made it impossible to get a bank loan. Direct Title Loans approved me based on my Honda's value. Fast, professional, and I kept driving my car the whole time. The location near Bayside is convenient and parking was easy.",
+        "date": "2025-10-15",
+        "location": "Coral Gables, FL"
+      },
+      {
+        "name": "Marcus T.",
+        "rating": 4,
+        "text": "Good experience overall. The application was quick and I got my money the next business day. Staff was knowledgeable about Florida's title loan laws and made sure I understood the tiered interest rates. Would recommend to anyone in Miami-Dade.",
+        "date": "2025-09-22",
+        "location": "Hialeah, FL"
+      }
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "How do I get a title loan in Miami, FL?",
+      "answer": "Apply online or call our Miami team at (305) 555-0147. You'll need your vehicle title, ID, proof of income, and proof of residence. Our Brickell office is located at 1450 Brickell Avenue near Bayside Marketplace. Many Miami applicants are approved and funded the same day."
+    },
+    {
+      "question": "Where is your Miami title loan office located?",
+      "answer": "Our Miami branch is located at 1450 Brickell Avenue, Suite 300, in the Brickell financial district. We are right across from Bayside Marketplace and near the Perez Art Museum Miami. Take I-95 Exit 12 (Downtown Miami) for the quickest route. Street parking and nearby garages are available."
+    },
+    {
+      "question": "What are the interest rates for title loans in Florida?",
+      "answer": "Florida law caps title loan interest rates on a tiered basis: 30% APR on the first $2,000, 24% APR on amounts between $2,000-$3,000, and 18% APR on amounts over $3,000. This protects Miami borrowers from excessive interest charges."
+    },
+    {
+      "question": "What vehicles qualify for title loans in Miami?",
+      "answer": "We accept cars, trucks, motorcycles, and RVs in Miami. Your vehicle must have a clear title in your name, be in working condition, and have sufficient value to secure the loan. We work with all makes and models."
+    },
+    {
+      "question": "Is there a minimum credit score for Miami title loans?",
+      "answer": "No. We focus on your vehicle's value and your ability to repay, not your credit score. Many Miami residents with bad credit or no credit history qualify for our title loans."
+    },
+    {
+      "question": "How much can I borrow with a title loan in Miami?",
+      "answer": "Loan amounts depend on your vehicle's value. Miami residents typically qualify for $1,000 to $25,000 or more depending on their car, truck, or other vehicle's equity. Florida has no maximum loan amount under Chapter 537."
+    }
+  ],
+
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1533106497176-45ae19e68ba2?w=1600",
+      "alt": "Miami, Florida skyline with Brickell financial district",
+      "caption": "Title Loans in Miami, FL - Fast Cash for Miami-Dade County Residents"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+        "alt": "Car keys and title loan documents",
+        "caption": "Simple title loan process"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800",
+        "alt": "Customer driving their car in Miami",
+        "caption": "Keep driving while you repay"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800",
+        "alt": "Cash in hand",
+        "caption": "Get cash fast in Miami"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Can't make it to our Miami location? We also serve:",
+    "cities": [
+      {
+        "name": "Miami Beach",
+        "slug": "miami-beach",
+        "url": "/locations/florida/miami-beach",
+        "distanceMiles": 5
+      },
+      {
+        "name": "Coral Gables",
+        "slug": "coral-gables",
+        "url": "/locations/florida/coral-gables",
+        "distanceMiles": 6
+      },
+      {
+        "name": "Hialeah",
+        "slug": "hialeah",
+        "url": "/locations/florida/hialeah",
+        "distanceMiles": 8
+      },
+      {
+        "name": "Doral",
+        "slug": "doral",
+        "url": "/locations/florida/doral",
+        "distanceMiles": 12
+      }
+    ]
+  },
+
+  "serviceAreaDescription": "We proudly serve Miami and the greater Miami-Dade County region, including Miami Beach, Coral Gables, Hialeah, Doral, Aventura, Homestead, Miami Springs, North Miami, Kendall, and all surrounding communities.",
+
+  "localFacts": {
+    "population": "450,000 (City) / 6.1 million (Metro)",
+    "areaCode": "305",
+    "majorHighways": ["I-95", "Florida Turnpike", "US-1", "I-395", "SR-836"],
+    "landmarks": ["Art Deco Historic District", "Wynwood Walls", "Vizcaya Museum & Gardens", "Perez Art Museum Miami", "Bayside Marketplace", "South Pointe Park"],
+    "localContext": "Miami is a major international business hub with strong tourism, real estate, finance, and trade sectors. As a gateway to Latin America with diverse industries including hospitality and international commerce, Miami residents often need flexible financial solutions."
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Direct Title Loans - Miami, FL",
+    "description": "Title loans in Miami, FL. Use your car, truck, motorcycle, or RV as collateral. Fast same-day funding, bad credit OK. Serving Miami-Dade County.",
+    "url": "https://directtitleloans.com/locations/florida/miami",
+    "telephone": "(305) 555-0147",
+    "priceRange": "$1,000 - $25,000+",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash, Check, Bank Transfer",
+    "openingHours": "Mo-Fr 09:00-18:00, Sa 10:00-16:00",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1450 Brickell Avenue, Suite 300",
+      "addressLocality": "Miami",
+      "addressRegion": "FL",
+      "postalCode": "33131",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "areaServed": {
+      "@type": "City",
+      "name": "Miami",
+      "containedInPlace": {
+        "@type": "State",
+        "name": "Florida"
+      }
+    },
+    "sameAs": [],
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Title Loan Services",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "LoanOrCredit",
+            "name": "Car Title Loan",
+            "url": "/services/car-title-loans"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "LoanOrCredit",
+            "name": "Truck Title Loan",
+            "url": "/services/truck-title-loans"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "LoanOrCredit",
+            "name": "Motorcycle Title Loan",
+            "url": "/services/motorcycle-title-loans"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "LoanOrCredit",
+            "name": "RV Title Loan",
+            "url": "/services/rv-title-loans"
+          }
+        }
+      ]
+    }
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Florida", "url": "/locations/florida"},
+    {"label": "Miami", "url": "/locations/florida/miami"}
+  ],
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Miami?",
+    "subheadline": "Visit our Brickell Avenue location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=miami-fl"
+    },
+    "secondaryCta": {
+      "text": "Call (305) 555-0147",
+      "url": "tel:+13055550147"
+    },
+    "address": "1450 Brickell Avenue, Suite 300, Miami, FL 33131"
+  },
+
+  "metadata": {
+    "generatedAt": "2025-12-26T12:00:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0"
+  }
+}

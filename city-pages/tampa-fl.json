@@ -1,0 +1,365 @@
+{
+  "id": "tampa-fl",
+  "city": "Tampa",
+  "slug": "tampa",
+  "state": "Florida",
+  "stateCode": "FL",
+  "stateSlug": "florida",
+  "countyName": "Hillsborough County",
+  "serviceNiche": "Title Loans",
+  "businessName": "Direct Title Loans",
+
+  "seo": {
+    "title": "Title Loans in Tampa, FL | Fast Cash Same Day | Direct Title Loans",
+    "metaDescription": "Get a title loan in Tampa, FL today. Visit our Downtown Tampa branch near Florida Aquarium. Cars, trucks, RVs accepted. Same-day funding, bad credit OK.",
+    "canonicalUrl": "/locations/florida/tampa",
+    "keywords": [
+      "title loans tampa",
+      "tampa title loans",
+      "car title loans tampa fl",
+      "title loan near me tampa",
+      "auto title loans tampa",
+      "emergency title loans tampa",
+      "title loans hillsborough county",
+      "tampa bay title loans"
+    ]
+  },
+
+  "hero": {
+    "h1": "Title Loans in Tampa, FL",
+    "subheadline": "Get Fast Cash Using Your Vehicle's Equity at Our Downtown Tampa Location",
+    "ctaText": "Apply Now for Tampa Cash",
+    "ctaUrl": "/apply?location=tampa-fl",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=27.9506,-82.4572"
+    }
+  },
+
+  "description": "Looking for fast cash in Tampa, FL? Direct Title Loans offers title loans to Tampa residents who need quick access to funds. Whether you are dealing with an unexpected medical bill, emergency car repair, or home expense, we can help you leverage your vehicle's equity to get the money you need.\n\nOur Tampa branch is conveniently located at 2401 E Hillsborough Ave, right across from Tampa General Hospital and just down the road from the Florida Aquarium in the Ybor City area. If you are taking I-275, take Exit 41 (Downtown Tampa) to reach us quickly.\n\nWith a median household income of $71,302 and growing sectors in healthcare, education, and construction, many Tampa Bay area residents rely on their vehicles for work and daily life. We understand that unexpected expenses happen, and our title loan services provide a fast solution without disrupting your transportation.\n\nWe accept cars, trucks, motorcycles, and RVs as collateral. You keep driving your vehicle while you repay the loan, and our flexible terms work with your budget. Bad credit? No problem. Your vehicle's value is what matters most, not your credit score.\n\nServing the greater Tampa Bay area including St. Petersburg, Clearwater, Brandon, Temple Terrace, Lakeland, and surrounding Hillsborough County communities, Direct Title Loans is your trusted local source for vehicle-secured financing. With same-day funding available, you could have cash in your hands today.",
+
+  "shortDescription": "Direct Title Loans offers fast title loans in Tampa, FL near the Florida Aquarium and Ybor City. Use your car, truck, or RV as collateral. Same-day funding, bad credit OK. Serving Tampa Bay and Hillsborough County.",
+
+  "localProof": {
+    "headline": "Where to Find Us in Tampa",
+    "directions": "We are conveniently located at 2401 E Hillsborough Ave, right across from Tampa General Hospital and just down the road from Ybor City Historic District. If you are taking I-275, take Exit 41 (Downtown Tampa). From I-4, take Exit 2 (Westshore) and head east on Hillsborough Ave.",
+    "address": "2401 E Hillsborough Ave, Suite 105, Tampa, FL 33610",
+    "landmarks": ["Florida Aquarium", "Ybor City Historic District", "Tampa Riverwalk"],
+    "highway": "I-275",
+    "exit": "Exit 41 (Downtown Tampa)",
+    "neighborhoodName": "East Tampa",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d112662.89576398045!2d-82.53777684999999!3d27.9505598!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88c2b782b3b9d1e1%3A0xa75f1389af96b463!2sTampa%2C%20FL!5e0!3m2!1sen!2sus!4v1703609200000"
+  },
+
+  "nap": {
+    "name": "Direct Title Loans of Tampa",
+    "street": "2401 E Hillsborough Ave, Suite 105",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33610",
+    "phone": "(813) 555-0187",
+    "formattedPhone": "+18135550187",
+    "formattedAddress": "2401 E Hillsborough Ave, Suite 105, Tampa, FL 33610",
+    "coordinates": {
+      "latitude": 27.9506,
+      "longitude": -82.4572
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=27.9506,-82.4572"
+  },
+
+  "financialStats": {
+    "medianIncome": 71302,
+    "unemploymentRate": 4.7,
+    "medianHomeValue": 372114,
+    "medianRent": 1567,
+    "povertyRate": 15.9,
+    "laborForceParticipation": 66.5,
+    "population": 2906040
+  },
+
+  "marketContext": "With a median household income of $71,302 and growing employment in healthcare, education, and construction, Tampa Bay residents often need quick access to cash for unexpected expenses while maintaining their work transportation.",
+
+  "productLinks": {
+    "headline": "What Vehicles Can You Use for a Loan in Tampa?",
+    "intro": "While most customers in Hillsborough County use their car, we accept a variety of vehicles at this Tampa branch:",
+    "services": [
+      {
+        "name": "Car Title Loans",
+        "slug": "car-title-loans",
+        "url": "/services/car-title-loans",
+        "description": "Use your car as collateral for fast cash. Sedans, SUVs, and coupes accepted.",
+        "anchorText": "Car Title Loans"
+      },
+      {
+        "name": "Truck Title Loans",
+        "slug": "truck-title-loans",
+        "url": "/services/truck-title-loans",
+        "description": "Personal pickups and commercial trucks welcome at our Tampa location.",
+        "anchorText": "Truck Title Loans"
+      },
+      {
+        "name": "Motorcycle Title Loans",
+        "slug": "motorcycle-title-loans",
+        "url": "/services/motorcycle-title-loans",
+        "description": "Turn your bike into cash. Cruisers, sport bikes, and touring motorcycles accepted.",
+        "anchorText": "Motorcycle Title Loans"
+      },
+      {
+        "name": "RV Title Loans",
+        "slug": "rv-title-loans",
+        "url": "/services/rv-title-loans",
+        "description": "Unlock equity in your recreational vehicle. Class A, B, and C motorhomes accepted.",
+        "anchorText": "RV Title Loans"
+      },
+      {
+        "name": "Emergency Title Loans",
+        "slug": "emergency-title-loans",
+        "url": "/services/emergency-title-loans",
+        "description": "Same-day emergency funding when you need cash fast in Tampa.",
+        "anchorText": "Emergency Title Loans"
+      },
+      {
+        "name": "Title Loan Refinancing",
+        "slug": "title-loan-refinancing",
+        "url": "/services/title-loan-refinancing",
+        "description": "Lower your monthly payment by refinancing your existing title loan.",
+        "anchorText": "Title Loan Refinancing"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Title Loan Laws in Florida",
+    "content": "Residents of Tampa are protected by the Florida Title Loan Act (Chapter 537), which provides comprehensive consumer protections and strict interest rate caps for title loan borrowers in Hillsborough County and throughout the state.",
+    "keyPoints": [
+      "Florida caps interest at 30% APR on the first $2,000, 24% on $2,000-$3,000, and 18% on amounts over $3,000",
+      "All title loan lenders must be licensed by the Florida Office of Financial Regulation",
+      "Initial loan term is 30 days, with extensions permitted by mutual consent",
+      "Lenders cannot capitalize unpaid interest into principal on extensions",
+      "If your vehicle is repossessed, you must receive 10 days notice before sale",
+      "You are entitled to surplus proceeds within 30 days of vehicle sale",
+      "You may redeem your vehicle any time before sale by paying balance plus costs",
+      "Verify lender license at flofr.gov or call (850) 487-9687"
+    ],
+    "regulatoryBody": "Florida Office of Financial Regulation (OFR)",
+    "regulatoryUrl": "https://flofr.gov",
+    "contactPhone": "(850) 487-9687",
+    "disclaimer": "This information is for general educational purposes only and may not reflect the most current legal developments. Laws and regulations change frequently. Always consult with a licensed attorney or contact the Florida Office of Financial Regulation at (850) 487-9687 or visit flofr.gov for the most accurate and up-to-date information before making any financial decisions."
+  },
+
+  "localReviews": {
+    "headline": "What Our Tampa Customers Say",
+    "locationId": "tampa-fl",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "reviews": [
+      {
+        "name": "Carlos M.",
+        "rating": 5,
+        "text": "Needed emergency cash for AC repair during the Tampa summer heat. The team at the Hillsborough Ave location got me approved in under an hour. Very professional and explained everything about Florida's title loan laws clearly.",
+        "date": "2024-11-22",
+        "location": "Tampa, FL"
+      },
+      {
+        "name": "Jennifer R.",
+        "rating": 5,
+        "text": "I was nervous about getting a title loan but Direct Title Loans made it easy. They're right near Ybor City so convenient to get to. I kept driving my truck the whole time and paid it off early with no penalty.",
+        "date": "2024-10-15",
+        "location": "Brandon, FL"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 4,
+        "text": "Good experience overall. The interest rates in Florida are capped which was nice to learn. Staff was knowledgeable and the process was faster than I expected. Would recommend to anyone in the Tampa Bay area.",
+        "date": "2024-09-08",
+        "location": "Temple Terrace, FL"
+      }
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is the Direct Title Loans Tampa location?",
+      "answer": "Our Tampa branch is located at 2401 E Hillsborough Ave, Suite 105, right across from Tampa General Hospital and near the Ybor City Historic District. Take I-275 Exit 41 (Downtown Tampa) for the quickest route from most Tampa Bay locations."
+    },
+    {
+      "question": "What are your hours at the Tampa location?",
+      "answer": "We are open Monday through Friday from 9 AM to 6 PM, and Saturday from 10 AM to 4 PM. We are closed on Sundays. Walk-ins are welcome, or apply online first to speed up the process."
+    },
+    {
+      "question": "How much can I borrow with a title loan in Tampa?",
+      "answer": "Loan amounts depend on your vehicle's value. Tampa residents typically qualify for $1,000 to $25,000 or more depending on their car, truck, motorcycle, or RV's equity. Florida law allows loans based on vehicle value with tiered interest rate protections."
+    },
+    {
+      "question": "What are the interest rates for title loans in Florida?",
+      "answer": "Florida has strict tiered interest rate caps: 30% APR on the first $2,000, 24% on $2,000-$3,000, and 18% on amounts over $3,000. This is mandated by the Florida Title Loan Act (Chapter 537) and protects Tampa borrowers."
+    },
+    {
+      "question": "Do I need good credit to get a title loan in Tampa?",
+      "answer": "No. We focus on your vehicle's value and your ability to repay, not your credit score. Many Tampa residents with bad credit, no credit history, or past bankruptcies qualify for our title loans."
+    },
+    {
+      "question": "Can I get a title loan if I live in St. Petersburg, Clearwater, or Brandon?",
+      "answer": "Absolutely. We serve the entire Tampa Bay area including St. Petersburg, Clearwater, Brandon, Temple Terrace, Lakeland, Plant City, and all surrounding Hillsborough, Pinellas, and Polk County communities."
+    }
+  ],
+
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1605723517503-3cadb5818a0c?w=1600",
+      "alt": "Tampa Florida skyline with Hillsborough River",
+      "caption": "Title Loans in Tampa, FL - Fast Cash for Tampa Bay Residents"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+        "alt": "Car keys and title loan documents",
+        "caption": "Simple title loan process at our Tampa location"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800",
+        "alt": "Customer driving their car in Tampa",
+        "caption": "Keep driving while you repay your Tampa title loan"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800",
+        "alt": "Cash in hand",
+        "caption": "Get fast cash at our Tampa Bay location"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Cities",
+    "intro": "Can't make it to our Tampa location? We also serve these Tampa Bay area cities:",
+    "cities": [
+      {
+        "name": "St. Petersburg",
+        "slug": "st-petersburg",
+        "url": "/locations/florida/st-petersburg",
+        "distanceMiles": 24
+      },
+      {
+        "name": "Clearwater",
+        "slug": "clearwater",
+        "url": "/locations/florida/clearwater",
+        "distanceMiles": 22
+      },
+      {
+        "name": "Brandon",
+        "slug": "brandon",
+        "url": "/locations/florida/brandon",
+        "distanceMiles": 11
+      },
+      {
+        "name": "Lakeland",
+        "slug": "lakeland",
+        "url": "/locations/florida/lakeland",
+        "distanceMiles": 35
+      }
+    ]
+  },
+
+  "ctaSection": {
+    "headline": "Ready to Get Cash in Tampa?",
+    "subheadline": "Visit our Hillsborough Ave location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=tampa-fl"
+    },
+    "secondaryCta": {
+      "text": "Call (813) 555-0187",
+      "url": "tel:+18135550187"
+    },
+    "address": "2401 E Hillsborough Ave, Suite 105, Tampa, FL 33610"
+  },
+
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "FinancialService",
+    "name": "Direct Title Loans of Tampa",
+    "description": "Title loans in Tampa, FL. Use your car, truck, motorcycle, or RV as collateral. Fast same-day funding, bad credit OK. Serving Tampa Bay and Hillsborough County.",
+    "url": "https://directtitleloans.com/locations/florida/tampa",
+    "telephone": "(813) 555-0187",
+    "priceRange": "$1,000 - $25,000+",
+    "openingHours": "Mo-Fr 09:00-18:00, Sa 10:00-16:00",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2401 E Hillsborough Ave, Suite 105",
+      "addressLocality": "Tampa",
+      "addressRegion": "FL",
+      "postalCode": "33610",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 27.9506,
+      "longitude": -82.4572
+    },
+    "areaServed": [
+      {
+        "@type": "City",
+        "name": "Tampa",
+        "containedInPlace": {
+          "@type": "State",
+          "name": "Florida"
+        }
+      },
+      {
+        "@type": "City",
+        "name": "St. Petersburg"
+      },
+      {
+        "@type": "City",
+        "name": "Clearwater"
+      },
+      {
+        "@type": "City",
+        "name": "Brandon"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": "89"
+    }
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Florida", "url": "/locations/florida"},
+    {"label": "Tampa", "url": "/locations/florida/tampa"}
+  ],
+
+  "localFacts": {
+    "population": "400,000 (city) / 2,906,040 (metro)",
+    "areaCode": "813",
+    "majorHighways": ["I-275", "I-4", "I-75", "Florida Turnpike", "US-41"],
+    "landmarks": ["Busch Gardens Tampa Bay", "Florida Aquarium", "Ybor City Historic District", "Hyde Park Village", "Tampa Riverwalk", "Raymond James Stadium"],
+    "majorExits": ["I-275 Exit 41 (Downtown Tampa)", "I-75 Exit 254 (Busch Gardens)", "I-4 Exit 2 (Westshore)"],
+    "neighboringCities": ["St. Petersburg", "Clearwater", "Brandon", "Temple Terrace", "Plant City", "Lakeland", "Pinellas Park", "Largo"],
+    "economicContext": "Tampa has 1.56 million nonfarm jobs with 0.9% year-over-year employment growth. Average weekly wages are $1,337 across all industries. Key growth sectors include education and health services (+2.4%), construction (+2.9%), and government (+2.4%)."
+  },
+
+  "metadata": {
+    "generatedAt": "2025-12-26T12:00:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "dataSourcesUsed": [
+      "locations.json",
+      "service-schema-template.json",
+      "state-compliance/florida.json",
+      "uscities database (financial stats)"
+    ]
+  }
+}
